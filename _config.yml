@@ -1,24 +1,30 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.your-domain.com" # the base hostname & protocol for your site
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://sharadalt.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Sharada Thimmaiah # Your name will go here
+  title: <h4 style="font-family:AR DARLING;">Sharada Thimmaiah </h4> # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Passionate & Creative Full Stack Web Developer</h1>
-     <p>I'm specializing in Ruby, Rails, RSpec, javaScript, jQuery, AngularJS, Linux,   Apache, MySQL, PHP and Big Data.</p>
+     <h3 style="color:blue">Software Designer & Developer</h3>
+     <p><h6>Specializing in Ruby, Rails, RSpec, javaScript, jQuery, AngularJS, <br /> 
+         Linux,   Apache, MySQL, PHP and Big Data. <br />
+            Experienced in  Embedded Software Design, Development, <br />
+            System Test and Automation</h6></p> 
+         
+         
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
-  email_address: ltsharada@gmail.com # Full email address, e.g. "sam@example.com"
+  email_address: Ltsharada@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:

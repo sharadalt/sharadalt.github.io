@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Blocmetrics
-thumbnail-path: "img/blocflix.png"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
-
+thumbnail-path: "img/blocmetrics_main.png"
+short-description: An analytics service and reporting tool that you can use with web apps to track user activity.
 ---
+
 
 {:.center}
 ![]({{ site.baseurl }}/img/blocflix.png)
