@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blocipedia
-thumbnail-path: "img/blocipedia_main.png"
+thumbnail-path: "img/blocipedia_main.PNG"
 short-description: A production quality SaaS application implemented using Ruby on Rails that allows users to create their own wikis.
 
 ---
