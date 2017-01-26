@@ -96,7 +96,6 @@ Important note, If you decide to go back to standard user role, that is a piece 
 With Blocipedia, you can create both public and private wikis.
 
 ##### Conclusion
-
 Blocipedia is the way togo for creating public and private wikis.
 
-<a href="https://github.com/sharadalt/blocipedia/" style="font-family:Times New Roman;"><strong>Click Here to see Blocipedia source code on Github</strong></a>
+<a href="https://github.com/sharadalt/blocipedea" style="font-family:Times New Roman;"><strong>Click Here to see Blocipedia source code on Github</strong></a>

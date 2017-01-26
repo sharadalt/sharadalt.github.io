@@ -63,5 +63,4 @@ With Blocitoff, you can see your progress in your to-do list and don't have to w
 ##### Conclusion
 Blocitoff is the way togo for your to-do lists.
 
-<a href="https://github.com/sharadalt/blocitoff/" style="font-family:Times New Roman;"><strong>Click Here to see Blocitoff source code on Github</strong></a>
-
+<a href="https://github.com/sharadalt/blocitoff" style="font-family:Times New Roman;"><strong>Click Here to see Blocitoff source code on Github</strong></a>
