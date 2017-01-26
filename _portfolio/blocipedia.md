@@ -21,7 +21,7 @@ Blocipedia gives you the solution. If you register with Blocipedia you will be a
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
   Main page
   <a href="{{ project.url | prepend: site.baseurl }}">
-    <img src="/img/blocipedia_1.png"/>
+    <img src="/img/blocipedia_1.PNG"/>
   </a>
 </div>
 <br />
@@ -32,7 +32,7 @@ Here is the screen, like any web application, provide your name, email and passw
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
   Sign up page
   <a href="{{ project.url | prepend: site.baseurl }}">
-    <img src="/img/blocipedia_2.png"/>
+    <img src="/img/blocipedia_2.PNG"/>
   </a>
 </div>
 <br />
@@ -46,7 +46,7 @@ Once registered, what do you want to do next? It's no brainer, You want to signi
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
   Sign in page
   <a href="{{ project.url | prepend: site.baseurl }}">
-    <img src="/img/blocipedia_3.png"/>
+    <img src="/img/blocipedia_3.PNG"/>
   </a>
 </div>
 <br />
@@ -60,7 +60,7 @@ Now you are a standard user in Blocipedia roles.
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
   Standard User page
   <a href="{{ project.url | prepend: site.baseurl }}">
-    <img src="/img/blocipedia_4.png"/>
+    <img src="/img/blocipedia_4.PNG"/>
   </a>
 </div>
 <br />
@@ -70,7 +70,7 @@ If you wish to have own private wikis, just click on the button which says, upgr
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
   Payment window page
   <a href="{{ project.url | prepend: site.baseurl }}">
-    <img src="/img/blocipedia_5.png"/>
+    <img src="/img/blocipedia_5.PNG"/>
   </a>
 </div>
 <br />
@@ -82,7 +82,7 @@ Now after paying, Tat tada .... You become a premium user!!! That is the role, B
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
   Premium User page
   <a href="{{ project.url | prepend: site.baseurl }}">
-    <img src="/img/blocipedia_7.png"/>
+    <img src="/img/blocipedia_7.PNG"/>
   </a>
 </div>
 <br />

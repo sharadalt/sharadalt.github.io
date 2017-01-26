@@ -6,7 +6,7 @@ feature-img: "img/color.png"
 ---
 
 <div class="work">
-    {% for project in site.portfolio limit:3 %}
+    {% for project in site.portfolio limit:4 %}
     <div class="project">
       <div class="project-description">
         <a href="{{ project.url | prepend: site.baseurl }}"><strong>{{ project.title }}</strong></a>
