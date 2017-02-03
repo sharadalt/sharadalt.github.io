@@ -13,9 +13,9 @@ feature-img: "img/color.png"
         <p>{{ project.short-description }}</p>
       </div>
       <div class="project-thumb">
-        <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
+        <div class="boxed" style="width:120%; margin-left:-10%;border: 1px solid blue; text-align:center;">
           <a href="{{ project.url | prepend: site.baseurl }}">
-            <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
+            <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}" align="middle">
           </a>
         </div>
       </div>

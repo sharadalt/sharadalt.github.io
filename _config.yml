@@ -6,7 +6,7 @@ url: "https://sharadalt.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: <h4 style="font-family:AR DARLING;">Sharada Thimmaiah </h4> # Your name will go here
+  title: Sharada Thimmaiah # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
