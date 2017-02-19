@@ -12,11 +12,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h3 style="color:blue">Software Designer & Developer</h3>
-     <p><h6>Specializing in Ruby, Rails, RSpec, javaScript, jQuery, AngularJS, <br /> 
-         Linux,   Apache, MySQL, PHP and Big Data. <br />
-            Experienced in  Embedded Software Design, Development, <br />
-            System Test and Automation</h6></p> 
-         
+     <p><h6>Specializing in Ruby, JavaScript, LAMP <br /></p>
          
   header_text_feature_image:
   footer_text: >

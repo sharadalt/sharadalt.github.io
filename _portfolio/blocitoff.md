@@ -15,47 +15,48 @@ We need a to-do list organizer application to prevent this disaster. To-do lists
 ##### Solution
 Blocitoff will not only help in achieving your goal but will also aim to keep to-do lists manageable by automatically deleting to-do items that have not been completed after seven days. The hypothesis is that if the to-do item is not important enough to be completed in seven days, it doesn't belong on your to-do list.
 
-How does Blocitoff look like to start with? Here you go...
+Blocitoff is built in Ruby on Rails framework with MVC architecture. It uses html, CSS and bootstrap-sass to stylize. It uses ruby gems to achieve some of it's tasks. It uses SQLite for it's database needs.
 
-<div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
-  Main page
+How does Blocitoff look like to start with? It looks like what is shown in work.md
+
+To get access to Blocitoff, First thing you do is Signup.
+
+<div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
   <a href="{{ project.url | prepend: site.baseurl }}">
-    <img src="/img/blocitoff_1.PNG"/>
-  </a>
-</div>
-<br />
-
-As you can see, To get access to Blocitoff, First thing you do is Signup.
-
-<div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
-  Signup page
-  <a href="{{ project.url | prepend: site.baseurl }}">
-    <img src="/img/blocitoff_2.PNG"/>
+    <img src="/img/blocitoff_signup.PNG"/>
   </a>
 </div>
 <br />
 
 Then ofcourse next thing you do is Signin. Your Sign in opens up the door to Blocitoff. 
 
-<div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
-  Sign in page
+<div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
   <a href="{{ project.url | prepend: site.baseurl }}">
-    <img src="/img/blocitoff_3.PNG"/>
+    <img src="/img/blocitoff_signin.PNG"/>
   </a>
 </div>
 <br />
 
 Blocitoff has user authentication implemented from scratch. Isn't that neat?
 
-Signed In user can create multiple to-do items, see how old a to-do item is edit them, mark to-do items as complete and delete them. Also, to-do items are automatically deleted seven days after their creation date.
+Signed In user can create multiple to-do items, see how old a to-do item is, edit them, mark to-do items as complete and delete them. Also, to-do items are automatically deleted seven days after their creation date.
 
-<div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
-  Profile page
+<div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
   <a href="{{ project.url | prepend: site.baseurl }}">
-    <img src="/img/blocitoff_4.PNG"/>
+    <img src="/img/blocitoff_index.PNG"/>
   </a>
 </div>
 <br />
+
+Edit screen of the Todo item is shown below:
+
+<div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
+  <a href="{{ project.url | prepend: site.baseurl }}">
+    <img src="/img/blocitoff_edit_todo.PNG"/>
+  </a>
+</div>
+<br />
+
 
 ##### Results
 With Blocitoff, you can see your progress in your to-do list and don't have to worry about the maintainance of your to-do list.

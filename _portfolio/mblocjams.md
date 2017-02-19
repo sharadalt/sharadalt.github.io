@@ -12,7 +12,7 @@ Most of living beings, humans, animals and plants love music. Music heals our he
 We want to have the features of legacy music player for playing the songs from the cloud/internet storage. We should be able to play the music on desktop/laptop/ipad/mobile phone. 
 
 ##### Solution
-BlocJams provides the solution. Tt's like spotify. Using blocjams, we can select an album from a collection of albums, select a song from the album to play, pause it, start from any point and change its volume. Run all the songs sequentially.
+BlocJams provides the solution. It's like spotify. Using blocjams, we can select an album from a collection of albums, select a song from the album to play, pause it, start from any point and change its volume. Run all the songs sequentially.
 
 Now let us see how we can play music from blocjams, Start the application, you will see the following page and click on collection.
 
