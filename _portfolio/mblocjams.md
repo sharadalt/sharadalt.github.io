@@ -17,7 +17,6 @@ BlocJams provides the solution. It's like spotify. Using blocjams, we can select
 Now let us see how we can play music from blocjams, Start the application, you will see the following page and click on collection.
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
-  Profile page
   <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocjams_main.PNG"/>
   </a>
@@ -27,7 +26,6 @@ Now let us see how we can play music from blocjams, Start the application, you w
 It opens up the collection available:
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
-  Profile page
   <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocjams_1.PNG"/>
   </a>
@@ -37,7 +35,6 @@ It opens up the collection available:
 Now pick up your album and play the song.
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
-  Profile page
   <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocjams_2.PNG"/>
   </a>
