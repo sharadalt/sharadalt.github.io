@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interpretation and assumption
+title: Interpretations & Assumptions
 ---
 
 <h3>Introduction</h3>
