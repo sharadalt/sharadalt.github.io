@@ -15,7 +15,9 @@ We want to have an application similar to craiglist but a smaller one for smalle
 
 ##### Solution
 
-AdsList gives you the solution. With this you can post your own post and also browse other posts. You don't have to pay a penny todo this. How cool is that?
+AdsList gives you the solution. With this you can post your own post and also browse other posts. You don't have to pay a penny todo this. How cool is that? It is built on LAMP stack.
+
+
 
 Now comes the question how do you register? 
 Here is the screen, like any web application, provide your name, email and password and press the Signup button, That's it.
