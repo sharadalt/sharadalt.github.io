@@ -16,6 +16,9 @@ There is a need for an app that not only lets us create our own wikis and share 
 
 ##### Solution
 
+<a href="https://github.com/sharadalt/blocipedea" style="font-family:Times New Roman;"><strong> Click here for Blocipedia source code on Github</strong></a>
+<br>
+
 Blocipedia application provides the solution for you with multiple features and in a cost effective manner. Once you are registered, You can create free Markdown wikis using Blocipedia. You can pay minimal money and have your own private wikis/documents and collaborate with colleagues. Bocipedia provides wiki CRUD operations as well. 
 
 Blocipedia is built in Ruby on Rails framework with MVC architecture. It uses html , CSS and bootstrap-sass to stylize. It uses ruby gems to achieve some of it's tasks. It uses SQLite for it's database needs.
@@ -131,4 +134,3 @@ With Blocipedia, you can create both public and private wikis.
 ##### Conclusion
 Blocipedia is the way togo for creating public and private wikis.
 
-<a href="https://github.com/sharadalt/blocipedea" style="font-family:Times New Roman;"><strong>Click Here to see Blocipedia source code on Github</strong></a>

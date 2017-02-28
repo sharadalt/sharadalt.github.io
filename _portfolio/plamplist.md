@@ -14,10 +14,9 @@ When you want to sell your used car, you want to put an ad. What is the first th
 We want to have an application similar to craiglist but a smaller one for smaller audience with customized design.
 
 ##### Solution
+<a href="https://github.com/sharadalt/lampapp" style="font-family:Times New Roman;"><strong>Click Here to see AdsList source code on Github</strong></a>
 
 AdsList gives you the solution. With this you can post your own post and also browse other posts. You don't have to pay a penny todo this. How cool is that? It is built on LAMP stack.
-
-
 
 Now comes the question how do you register? 
 Here is the screen, like any web application, provide your name, email and password and press the Signup button, That's it.
@@ -65,4 +64,4 @@ With AdsList, you can browse Ads and Post Ads.
 ##### Conclusion
 AdsList is the way togo for posting or browsing Ads.
 
-<a href="https://github.com/sharadalt/lampapp" style="font-family:Times New Roman;"><strong>Click Here to see AdsList source code on Github</strong></a>
+

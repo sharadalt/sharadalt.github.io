@@ -12,6 +12,9 @@ There are plenty of good analytic services, but that doesn't mean you can't buil
 Though there are multiple analytic services, there is always a need for better one.
 
 ##### Solution
+
+<a href="https://github.com/sharadalt/blocmetrics" style="font-family:Times New Roman;"><strong>Click here for Blocmetrics source code on Github</strong></a>
+
 Blocmetrics provides the solution for you with good set of features. Once you register your applications with Blocmetrics you can track the events to the registered application.
 
 Once you are registered, with your name, you can register the applications to be tracked. Blocmetrics provides wiki CRUD operations as well. 
@@ -99,4 +102,3 @@ With Blocmetrics, you can track the application.
 ##### Conclusion
 Blocmetrics is the way togo for tracking the events for an application.
 
-<a href="https://github.com/sharadalt/blocmetrics" style="font-family:Times New Roman;"><strong>Click Here to see Blocmetrics source code on Github</strong></a>
