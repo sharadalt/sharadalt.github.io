@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: <span style=color:blue;>About Me</span>
 permalink: /about/
 feature-img: "img/color.png"
 ---
