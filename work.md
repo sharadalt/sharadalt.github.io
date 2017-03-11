@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work
+title: My Work
 permalink: 
 feature-img: "img/color.png"
 ---
