@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <span style="color:blue"> My Posts</span>
+title: My Posts
 permalink: 
 feature-img: "img/color.png"
 ---
@@ -13,7 +13,7 @@ feature-img: "img/color.png"
           <div class="col-xs-6 col-sm-3">
             <li class="post-teaser">
               <h3>
-                <a style="color:blue" class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                 {{ post.title }}
                 </a>
               </h3>
@@ -23,7 +23,7 @@ feature-img: "img/color.png"
               <div class="excerpt">
                 {{ post.excerpt | | strip_html | strip_newlines | truncate: 120 }}
               </div>
-              <a style="color:blue" href="{{ post.url | prepend: site.baseurl }}">
+              <a href="{{ post.url | prepend: site.baseurl }}">
                 {{ site.theme_settings.str_continue_reading }}
               </a>
             </li>

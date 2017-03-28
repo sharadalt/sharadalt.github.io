@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <span style=color:blue;>Contact</span>
+title: Contact
 permalink: /contact/
 feature-img: "img/color.png"
 ---

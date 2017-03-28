@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <span style="color:blue";>My Work</span>
+title: My Work
 permalink: 
 feature-img: "img/color.png"
 ---
