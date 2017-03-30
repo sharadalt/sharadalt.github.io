@@ -21,7 +21,7 @@ feature-img: "img/color.png"
                 {{ post.date | date: "%B %-d, %Y" }}
               </p>
               <div class="excerpt">
-                {{ post.excerpt | | strip_html | strip_newlines | truncate: 120 }}
+                {{ post.excerpt | strip_html | strip_newlines | truncate: 120 }}
               </div>
               <a href="{{ post.url | prepend: site.baseurl }}">
                 {{ site.theme_settings.str_continue_reading }}

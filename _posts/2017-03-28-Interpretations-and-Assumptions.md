@@ -1,6 +1,6 @@
 ---
 layout: post
-<span title: style="font-size:12px">Interpretations & Assumptions</span>
+<span title: style="font-size:12px">My Interpretations & My Assumptions</span>
 ---
 
 <h3>Introduction</h3>
