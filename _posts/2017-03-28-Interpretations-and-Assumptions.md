@@ -5,7 +5,7 @@ layout: post
 
 <h3>Introduction</h3>
 <p>
-Why are the interpretations interpreted the way they are interpreted? Have you analyzed them anytime? It is very interesting when you actually sit and analyze them. Most of the time, When we interpret something, the interpretation is not absolute interpretation. It is relative. Based on whatever interpretation we do, we make assumptions. We will be very confident of our interpretation and trust our assumptions dearly. Not only that, We will goto any extent to defend our assumptions. We form strong opinions about people based on our assumptions.
+Why are the interpretations interpreted the way they are interpreted? Have you analyzed them anytime? It is very interesting when you actually sit and analyze them. Most of the time, When we interpret something, the interpretation is not absolute interpretation. It is relative based on so many factors. Based on whatever interpretation we do, we make assumptions. We will be very confident of our interpretation and trust our assumptions dearly. Not only that, We will goto any extent to defend our assumptions. We form strong opinions about people based on our assumptions.
 </p>
 <p>
 Now I will tell you the way I interpreted some incidences that happened in my life and the assumptions I made based on those interpretations.  Then how I learned some lessons later. Some of you might relate to people like me, some of you might consider them strange and some of you might even consider them as idiots. But remember you have to deal with such people in life and we live in a civilized world :-) 
@@ -13,7 +13,7 @@ Now I will tell you the way I interpreted some incidences that happened in my li
 
 <h3>Situational Interpretation</h3>
 <p>
-Long back when I had not seen life that much, I went to a chinese restaurant with some of my friends. We had our food and the waitress brought us the cheque. Ofcourse the fortune cookies came along. As usual, everyone started opening the cookie and reading it and talking about the lucky numbers bla bla... I opened mine with curiosity, alas! There was no note in the cookie! It was unexpected ! It was one of those days, where since morning not very good things were happening to me and added to that no fortune note in my cookie. 
+Long back when I had not seen life that much, I went to a chinese restaurant with some of my friends. We had our food and the waitress brought us the cheque. Ofcourse the fortune cookies came along. As usual, everyone started opening the cookie and reading it and talking about the lucky numbers bla bla... I opened mine with curiosity, alas! There was no note in the cookie! It was unexpected! It was one of those days, where since morning not very good things were happening to me and added to that no fortune note in my cookie. 
 </p>
 
 <p>
@@ -93,5 +93,5 @@ How did you like the story? What works for us , may not work for others right? E
 
 <h3>Summary</h3>
 <p>
-Based on above examples, I learned I need to be very cautious while interpreting and making assumptions. My interpretation has to be absolute not relative. I should not make assumptions if I am not in the right frame of mind. I can not assume what applies to me will apply to others. The situations could be with family, friends or colleagues. With spouse I can avoid lot of clashes if only, I do not make relative interpretations and assume. Especially at work it might lead to problems if we make assumptions about our colleagues based on our relative interpretations. We find all kinds of people in the society. What is your perspective on this?
+Based on above examples, I learned I need to be very cautious while interpreting and making assumptions. My interpretation has to be absolute not relative to my state of mind, circumstance etc. I should not make assumptions if I am not in the right frame of mind. I can not assume what applies to me will apply to others. The situations could be with family, friends or colleagues. With spouse I can avoid lot of clashes if only, I do not make relative interpretations and assume. Especially at work it might lead to problems if we make assumptions about our colleagues based on our relative interpretations. We find all kinds of people in the society. What is your perspective on this?
 </p>
