@@ -9,8 +9,11 @@ feature-img: "img/color.png"
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='https://sharadalt.github.io/thank-you'/>
   <!-- all your input fields here.... -->
-  <input type='text' name='test' />
-  <input type='submit' value='Test form' />
+	<input type='text' name='name' placeholder='Your Full Name' />
+  <input type='email' name='email' placeholder='Your E-mail Address' />
+  <textarea name='message' placeholder='Write your message ...'></textarea>
+  <input type='submit' value='Send Message' />
+  
 </form>
 
 
