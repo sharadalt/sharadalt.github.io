@@ -10,7 +10,7 @@ When I was facing the first interview in web development, my mentor specifically
 <h3>Explanation</h3>
 
 <p><h4>What is a Closure?</h4>
-Closure is one when the function remembers the surrounding context (the lexical context) in which it was declared. In other words we can say, A closure is nothing but functions with preserved data.</p>
+Closure is one when the function remembers the surrounding context (the lexical context) in which it was declared. In other words we can say, A closure is nothing but function with preserved data.</p>
 
 Now let us see the code below:
 
@@ -19,17 +19,17 @@ Now let us see the code below:
 var globalVar = 50;
 
 function a (){
-var asLocalVar = 75;
-console.log(globalVar);
-console.log(asLocalVar);
-	
-function b(){
-  var bsLocalVar = 100;
+  var asLocalVar = 75;
   console.log(globalVar);
   console.log(asLocalVar);
-  console.log(bsLocalVar);	
-}
-b();
+	
+  function b(){
+    var bsLocalVar = 100;
+    console.log(globalVar);
+    console.log(asLocalVar);
+    console.log(bsLocalVar);	
+  }
+  b();
 }
 
 console.log(globalVar); // prints 50
@@ -49,12 +49,12 @@ The code below allows us to execute a function outside of its lexical scope.
 {% highlight js %}
 
 function a (){
-var asLocalVar = 75;
+  var asLocalVar = 75;
 	
-function b(){
-  console.log(asLocalVar);
-}
-return b;
+  function b(){
+    console.log(asLocalVar);
+  }
+  return b;
 }
 
 var c = a(); 
@@ -85,29 +85,28 @@ You could use a global variable, and a function to increase the counter. In this
 
 {% highlight js %}
 
-var add = (function () {
-    var counter = 0;
-    return function () {return counter += 1;}
+var count = (function () {
+  var counter = 0;
+  return function () {return counter += 1;}
 })();
 
-add();
-add();
-add(); // Prints 3
+count();
+count();
+count(); // Prints 3
 
 {% endhighlight %}
 
 <p>
-As per the code above, The variable add is assigned the return value of a self-invoking function. The self-invoking function only runs once. It sets the counter to zero (0), and returns a function expression. This way add becomes a function and it can access the counter in the parent scope.
+As per the code above, The variable count is assigned the return value of a self-invoking function. The self-invoking function only runs once. It sets the counter to zero (0), and returns a function expression. This way count becomes a function and it can access the counter in the parent scope.
 </p>
 
 <p>
 Another example of Closure is, Partial addition:
 
 {% highlight js %}
-var addTo = function(passed) {
-  
-  var add = function(inner){
-   return passed + inner; 
+var addTo = function(varPassed) {
+  var add = function(varInner){
+    return varPassed + varInner; 
   }
   return add;
 };
@@ -117,14 +116,18 @@ var addFour  = new addTo(4);
 
 console.log(addThree(1)); // prints the value 4
 console.log(addFour(1));  // prints the value 5
+
 {% endhighlight %}
 
 In the above code, In addThree, it preserves the value of 3. When it is executed it uses this preserved data. This is closure. Again, addFour is a closure. The value of inner is what we are passing in console.log, which is 1.
+
+<h3>Conclusion</h3>
+When I was preparing for the interview, I used all the material above and felt quite confident about my basic knowledge of Closure. Hope the same confidence you will have about Closure after reading this article. Good Luck!  
 
 </p>
 <h3>References</h3>
 (1)Inputs from Jeff Lau, Mentor at Bloc <br>
 (2)Bloc Tutorial Material <br>
 (3)w3schools.com <br>
-(4)Master the JavaScript Interview from medium.com
+(4)Master the JavaScript Interview from medium.com <br>
 (5)techsith.com
