@@ -2,7 +2,8 @@
 layout: post
 title: Blocitoff
 thumbnail-path: "img/blocitoff_main.PNG"
-short-description: A self-destructing to-do lists application. It is an Utility Application in Ruby on Rails with Rake Automation 
+short-description: A self-destructing to-do lists application. It is an Utility Application in Ruby on Rails with Rake Automation
+github-path: "https://github.com/sharadalt/blocitoff"
 ---
 
 ##### Explanation

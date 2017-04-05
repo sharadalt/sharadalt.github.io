@@ -3,10 +3,8 @@ layout: post
 title: Blocipedia
 thumbnail-path: "img/blocipedia_main.PNG"
 short-description: A production quality SaaS application implemented using Ruby on Rails that allows users to create their own wikis.
+github-path: "https://github.com/sharadalt/blocipedea"
 ---
-
-<br>
-
 ##### Explanation
 
 Wikis are a great way to collaborate on community-sourced content. Whether it is for a hobby or work-related project, it is good to have a wiki. Experience has shown us the importance of public wikis. The idea of having private wikis is/was new to some, including me. After thinking about the need, I realized how valuable private wikis are. 
@@ -17,7 +15,7 @@ There is a need for an app that not only lets us create our own wikis and share 
 
 ##### Solution
 
-<a href="https://github.com/sharadalt/blocipedea" style="font-family:Times New Roman;"><strong> Click here for Blocipedia source code on Github</strong></a>
+<a href="https://github.com/sharadalt/blocipedea" style="font-family:Times New Roman;"><strong>https://github.com/sharadalt/blocipedea</strong></a>
 <br>
 
 Blocipedia application provides the solution for you with multiple features and in a cost effective manner. Once you are registered, You can create free Markdown wikis using Blocipedia. You can pay minimal money and have your own private wikis/documents and collaborate with colleagues. Bocipedia provides wiki CRUD operations as well. 
