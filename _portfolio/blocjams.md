@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mblocjams
+title: Blocjams
 thumbnail-path: "img/blocjams_main.PNG"
 short-description: A digital music player like Spotify, a frontend web development application with HTML, add styling and responsiveness using CSS, interactivity with JavaScript AngularJS, jQuery and DOM scripting
 github-path: "https://github.com/sharadalt/bloc_jams_angular"
@@ -13,8 +13,7 @@ Most of living beings, humans, animals and plants love music. Music heals our he
 We want to have the features of legacy music player for playing the songs from the cloud/internet storage. We should be able to play the music on desktop/laptop/ipad/mobile phone. 
 
 ##### Solution
-
-<a href="https://github.com/sharadalt/bloc_jams_angular/" style="font-family:Times New Roman;"><strong>Click here to see BlocJams source code on Github</strong></a>
+<a href="https://github.com/sharadalt/bloc_jams_angular/" style="font-family:Times New Roman;"><strong>https://github.com/sharadalt/bloc_jams_angular</strong></a>
 
 BlocJams provides the solution. It's like spotify. Using blocjams, we can select an album from a collection of albums, select a song from the album to play, pause it, start from any point and change its volume. Run all the songs sequentially.
 

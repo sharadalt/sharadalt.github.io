@@ -15,7 +15,7 @@ We need a to-do list organizer application to prevent this disaster. To-do lists
 
 ##### Solution
 
-<a href="https://github.com/sharadalt/blocitoff" style="font-family:Times New Roman;"><strong>Click here for Blocitoff source code on Github</strong></a>
+<a href="https://github.com/sharadalt/blocitoff" style="font-family:Times New Roman;"><strong>https://github.com/sharadalt/blocitoff</strong></a>
 
 Blocitoff will not only help in achieving your goal but will also aim to keep to-do lists manageable by automatically deleting to-do items that have not been completed after seven days. The hypothesis is that if the to-do item is not important enough to be completed in seven days, it doesn't belong on your to-do list.
 

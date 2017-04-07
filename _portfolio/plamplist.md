@@ -15,7 +15,7 @@ When you want to sell your used car, you want to put an ad. What is the first th
 We want to have an application similar to craiglist but a smaller one for smaller audience with customized design.
 
 ##### Solution
-<a href="https://github.com/sharadalt/lampapp" style="font-family:Times New Roman;"><strong>Click Here to see AdsList source code on Github</strong></a>
+<a href="https://github.com/sharadalt/lampapp" style="font-family:Times New Roman;"><strong>https://github.com/sharadalt/lampapp</strong></a>
 
 AdsList gives you the solution. With this you can post your own post and also browse other posts. You don't have to pay a penny todo this. How cool is that? It is built on LAMP stack.
 

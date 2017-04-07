@@ -10,27 +10,40 @@ title: TDD with Ruby Using Rspec
 <p>When tests are written to specify future code's behavior, it's called "Test-Driven Development" or TDD.</p>
 <p>
 
-When we follow our code development based on TDD, the advantages are many. We will be able to produce quality code in optimal amount of time, reducing the time-to-market (TTM).
+When we follow our code development based on TDD, the advantages are many.
+The main one being production of quality code in optimal amount of time, reducing the time-to-market (TTM).
 
 Rails makes it easy to write tests. It starts by producing skeleton test code while we are creating our models and controllers. By simply running our Rails tests we can ensure our code adheres to the desired functionality even after some major code refactoring.</p>
 <p>
 One of the most popular testing frameworks in Ruby on Rails community, for TDD is RSpec.
-RSpec is a Behaviour-Driven Development tool for Ruby programmers. BDD is an approach
-to software development that combines Test-Driven Development, Domain Driven Design,
-and Acceptance Test-Driven Planning. RSpec helps you do the TDD part of that equation,
-focusing on the documentation and design aspects of TDD.
+</p>
+<p>
+The parts of RSpec are:
+<p>
+<b>rspec-core:</b> The spec runner, providing a rich command line program, flexible and customizable reporting, and an API to organize your code examples. 
+</p>
+<p>
+<b>rspec-expectations:</b> Provides a readable API to express expected outcomes of a code example. 
+</p>
+<p>
+<b>rspec-mocks:</b> Test double framework, providing multiple types of fake objects to allow you to tightly control the environment in which your specs run.
+</p>
+<p>
+<b>rspec-rails:</b> Supports using RSpec to test Ruby on Rails applications in place of Rails' built-in test framework.
 </p>
 
 <h3>Reading RSpec Tests</h3>
 RSpec, like most testing frameworks, runs our code in particular conditions and with particular arguments. It sets expectations for the outcome of this process, and the test passes if those expectations are met.
 
-Consider the following code,
+Consider the following code in file example1_spec.rb,
 
 {% highlight ruby %}
-describe "hello" do
-  it "says hello to someone" do
-    greeting = hello("Mary", "Craig")
-    expect(greeting).to eq("Hello Mary Craig.")
+RSpec.describe Example1 do
+  describe "#hello" do
+    it "says hello to someone" do
+      example1 = Example1.new()
+      expect(example1.hello("Mary", "Craig")).to eq("Hello Mary Craig.")
+    end
   end
 end
 {% endhighlight %}
@@ -43,17 +56,28 @@ end
 
 <p>We declare what we're testing (the hello method), in between describe and  do.
 We declare our expected behavior in English (for humans), in between the it and the do.
-We write the actual test, assigning the result of calling hello("Mary", "Craig") to a greeting variable, then asserting that we expect the greeting variable to equal "Hello Mary Craig." If that expectation is fulfilled, the test will pass; otherwise, it will fail.
-We "close" the describe and it "blocks" with the keyword end.</p>
+We write the actual test, creating the object which contains the method hello and invoking the function on that object and checking the return value of this method to equal to an expected string. If that expectation is fulfilled, the test will pass; otherwise, it will fail. We "close" the describe and it "blocks" with the keyword end.</p>
 
-<p>RSpec assesses the return value, stored in the  greeting variable.</p>
+<p>RSpec assesses the return value.</p>
 
-<p>To make this test pass, we would implement the hello method as it's written below:<p>
+<p>To make this test pass, we would implement the hello method as it's written below in example1.rb:<p>
 
 {% highlight ruby %}
-def hello(first, last)
-  "Hello #{first} #{last}."
+class Example1
+  def hello(first, last)
+    "Hello #{first} #{last}."
+  end
 end
+{% endhighlight %}
+
+The following is the result of running the RSpec test.
+
+{% highlight ruby %}
+sharadalt:~/workspace/example_app (example_ruby_app) $ rspec spec/example1_spec.rb
+.
+
+Finished in 0.00177 seconds (files took 0.12874 seconds to load)
+1 example, 0 failures
 {% endhighlight %}
 
 The code below prints 9 when run, though expected result is 20. As can be seen it is not giving error. So we need to have tests created to make sure the code behaves as expected.
@@ -67,13 +91,14 @@ p mult(5,4) # prints 9
 
 {% endhighlight %}
 
-The following Test code, should test the above function, mult.
+The following Test code, should test the above function, mult (example2_spec.rb).
 
 {% highlight ruby %}
+require_relative '../example2'
 describe "mult" do
   it "multiplies its two arguments" do
-    product = mult(4, 3)
-    expect(product).to eq(12)
+    example2 = Example2.new()
+    expect(example2.mult(5,4)).to eq(20)
   end
 end
 {% endhighlight %}
@@ -82,7 +107,7 @@ Now if we modify the function, as below, The above test code will pass.
 
 {% highlight ruby %}
 def mult(a,b)
-  12
+  20
 end
 {% endhighlight %}
 
@@ -91,17 +116,29 @@ But the above implementation will fail, if the test code is as below:
 {% highlight ruby %}
 describe "mult" do
   it "multiplies its two arguments" do
-    product = mult(5, 6)
-    expect(product).to eq(30)
+    example2 = Example2.new()
+    expect(example2.mult(5,6)).to eq(30)
   end
 end
 {% endhighlight %}
 
-The mult function has to be as below, for it to produce correct result for all arguments:
+The mult function has to be as below, (example2.rb) for it to produce correct result for all arguments and pass the tests.
 {% highlight ruby %}
-def mult(a,b)
-  a * b
+class Example2
+  def mult(a,b)
+    a * b
+  end
 end
+{% endhighlight %}
+
+Now when we run RSpec tests on this, they will pass as below:
+
+{% highlight ruby %}
+sharadalt:~/workspace/example_app (example_ruby_app) $ rspec spec/example2_spec.rb
+.
+
+Finished in 0.00139 seconds (files took 0.10101 seconds to load)
+1 example, 0 failures
 {% endhighlight %}
 
 Narrow implementations of methods can pass single specific tests. We need tests to test code from a variety of angles. We need to read the test specs to make sure we understand exactly what is expected of our code, and what is needed to pass. 
@@ -150,10 +187,8 @@ Let us have the contents of entry_spec.rb as below and contents of the model fil
 
 {% highlight ruby %}
 require_relative '../models/entry'
-  
-	RSpec.describe Entry do
-  
-	end
+RSpec.describe Entry do
+end
 {% endhighlight %}
 
 entry_spec.rb uses require_relative to load our entry model for testing. Now when we run rspec command on it, we get the following output:
@@ -197,24 +232,24 @@ Let us add tests to test the attributes, name, phone_number and email.
 {% highlight ruby %}
 require_relative '../models/entry'
 
-  RSpec.describe Entry do # ------------------------> The file tests the object Entry
-    describe "attributes" do #----------------------> Test the attributes of Entry
-      it "responds to name" do # -------------------> This test tests name attribute
-        entry = Entry.new      # -------------------> Create a new entry
-        expect(entry).to respond_to(:name) #--------> Set expectation for pass or fail
-      end
-
-      it "responds to phone number" do
-        entry = Entry.new
-        expect(entry).to respond_to(:phone_number)
-      end
+RSpec.describe Entry do # ------------------------> The file tests the object Entry
+  describe "attributes" do #----------------------> Test the attributes of Entry
+    it "responds to name" do # -------------------> This test tests name attribute
+      entry = Entry.new      # -------------------> Create a new entry
+      expect(entry).to respond_to(:name) #--------> Set expectation for pass or fail
+    end
+		
+    it "responds to phone number" do
+      entry = Entry.new
+      expect(entry).to respond_to(:phone_number)
+    end
  
-      it "responds to email" do
-        entry = Entry.new
-        expect(entry).to respond_to(:email)
-      end
+    it "responds to email" do
+      entry = Entry.new
+      expect(entry).to respond_to(:email)
     end
   end
+end
 {% endhighlight %}
 
 RSpec provides methods, expect , to and respond_to etc. This is called Domain Specific Language(DSL). Now when we run the tests we see 3 failures, as we have not provided the attributes in entry.rb as yet.
@@ -265,24 +300,24 @@ Create the tests for the entries with values.
 require_relative '../models/entry'
 
 # Entry.new is changed to take values in all the 3 tests
-  RSpec.describe Entry do
-    describe "attributes" do #----------------------> Test the attributes of Entry
-      it "responds to name" do # -------------------> This test tests name attribute
-        entry = Entry.new('Linda Williams', '010.012.1915', 'linda.williams@love.com') 
-        expect(entry).to respond_to(:name) #--------> Set expectation for pass or fail
-      end
+RSpec.describe Entry do
+  describe "attributes" do #----------------------> Test the attributes of Entry
+    it "responds to name" do # -------------------> This test tests name attribute
+      entry = Entry.new('Linda Williams', '010.012.1915', 'linda.williams@love.com') 
+      expect(entry).to respond_to(:name) #--------> Set expectation for pass or fail
+    end
 
-      it "responds to phone number" do
-        entry = Entry.new('Linda Williams', '010.012.1915', 'linda.williams@love.com')
-        expect(entry).to respond_to(:phone_number)
-      end
+    it "responds to phone number" do
+      entry = Entry.new('Linda Williams', '010.012.1915', 'linda.williams@love.com')
+      expect(entry).to respond_to(:phone_number)
+    end
  
-      it "responds to email" do
-        entry = Entry.new('Linda Williams', '010.012.1915', 'linda.williams@love.com')
-        expect(entry).to respond_to(:email)
-      end
+    it "responds to email" do
+      entry = Entry.new('Linda Williams', '010.012.1915', 'linda.williams@love.com')
+      expect(entry).to respond_to(:email)
     end
   end
+end
 {% endhighlight %}
 
 When we run the tests again, we get failures:
@@ -322,10 +357,10 @@ Now add the initialize method with three arguments.
 {% highlight ruby %}
 class Entry
   # The attributes 
-   attr_accessor :name, :phone_number, :email
+  attr_accessor :name, :phone_number, :email
    
-   def initialize(name, phone_number, email)
-   end
+  def initialize(name, phone_number, email)
+  end
 end
 {% endhighlight %}
 
@@ -347,28 +382,28 @@ We will add tests to read the attribute values. An entry method is used using le
 </p>
 {% highlight ruby %}
 require_relative '../models/entry'
-  RSpec.describe Entry do
-    describe "attributes" do #----------------------> Test the attributes of Entry
-      let(:entry) { Entry.new('Linda Williams', '010.012.1915', 'linda.williams@love.com') }
-      it "responds to name" do # -------------------> This test tests name attribute
-        expect(entry).to respond_to(:name) #--------> Set expectation for pass or fail
-      end
+RSpec.describe Entry do
+  describe "attributes" do #----------------------> Test the attributes of Entry
+    let(:entry) { Entry.new('Linda Williams', '010.012.1915', 'linda.williams@love.com') }
+    it "responds to name" do # -------------------> This test tests name attribute
+      expect(entry).to respond_to(:name) #--------> Set expectation for pass or fail
+    end
      
-      it "reports its name" do
-        expect(entry.name).to eq('Linda Williams')
-      end
+    it "reports its name" do
+      expect(entry.name).to eq('Linda Williams')
+    end
 
-      it "responds to phone number" do
-        expect(entry).to respond_to(:phone_number)
-      end
+    it "responds to phone number" do
+      expect(entry).to respond_to(:phone_number)
+    end
      
-      it "reports its phone_number" do
-        expect(entry.phone_number).to eq('010.012.1915')
-      end
+    it "reports its phone_number" do
+      expect(entry.phone_number).to eq('010.012.1915')
+    end
  
-      it "responds to email" do
-        expect(entry).to respond_to(:email)
-      end
+    it "responds to email" do
+      expect(entry).to respond_to(:email)
+    end
      
       it "reports its email" do
         expect(entry.email).to eq('linda.williams@love.com')
@@ -383,7 +418,7 @@ require_relative '../models/entry'
         expect(entry.to_s).to eq(expected_string)
       end
     end
-  end
+end
 {% endhighlight %}
 
 code for entry.rb:
@@ -419,9 +454,12 @@ sharadalt:~/workspace/example_app (example_ruby_app) $
 {% endhighlight %}
 
 <h3>Conclusion</h3>
+We have seen RSpec test implementation for simple hello method and multiplication methods. We have also seen how to test models using RSpec. We have seen how the tests are written step by step and how the code to be tested is modified accordingly.
 Writing TDD code is not that complicated in Ruby on Rails as we have seen right? We can practice to implement it in all our sofware designs to save our companies dollars.
 
 <h3>References</h3>
 (1)Bloc Tutorial Material <br>
 (2)rubyonrails.org <br>
 (3)rspec.info
+(4)https://relishapp.com/rspec
+(5)https://bparanj.wistia.com/projects/azxn2s3fnq

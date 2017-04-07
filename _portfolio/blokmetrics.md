@@ -14,7 +14,7 @@ Though there are multiple analytic services, there is always a need for better o
 
 ##### Solution
 
-<a href="https://github.com/sharadalt/blocmetrics" style="font-family:Times New Roman;"><strong>Click here for Blocmetrics source code on Github</strong></a>
+<a href="https://github.com/sharadalt/blocmetrics" style="font-family:Times New Roman;"><strong>https://github.com/sharadalt/blocmetrics</strong></a>
 
 Blocmetrics provides the solution for you with good set of features. Once you register your applications with Blocmetrics you can track the events to the registered application.
 

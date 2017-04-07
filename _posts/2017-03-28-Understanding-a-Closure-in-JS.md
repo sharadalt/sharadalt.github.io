@@ -64,7 +64,7 @@ c(); // prints 75
 
 In this code, In addition to just focussing on local variable of function a(), The function a() now returns actual function b(), instead of invoking it. We assigned the function a() to a variable c which exists outside of function a().
 
-Variable 'c' is a <b>Closure.</b>
+Variable 'c' is a <b>Closure.</b> A closure is the combination of a function and the lexical environment within which that function was declared.
 
 When we invoke c(), we invoke b() which has access to the inner scope of a(), without executing function a().
 
@@ -119,10 +119,13 @@ console.log(addFour(1));  // prints the value 5
 
 {% endhighlight %}
 
-In the above code, In addThree, it preserves the value of 3. When it is executed it uses this preserved data. This is closure. Again, addFour is a closure. The value of inner is what we are passing in console.log, which is 1.
+In the above code, In addThree, it preserves the value of 3. When it is executed it uses this preserved data. This is closure. Again, addFour is a closure. The value of varInner is what we are passing in console.log, which is 1.
 
 <h3>Conclusion</h3>
-When I was preparing for the interview, I used all the material above and felt quite confident about my basic knowledge of Closure. Hope the same confidence you will have about Closure after reading this article. Good Luck!  
+<p>This article is an attempt to give a simple explanation of Closure. In this article, We saw the global scope behaviour in Java Script. We saw the implementation of inner function and outer function along with their local scopes behaviour. Later we saw the inner function's reference creating a Closure. Finally we saw couple of Closure examples.</p>
+<p>
+When I was preparing for the interview, I used all the material above and felt quite confident about my basic knowledge of Closure. Hope the same confidence you will have about Closure after reading this article. Good Luck! 
+</p>
 
 </p>
 <h3>References</h3>
