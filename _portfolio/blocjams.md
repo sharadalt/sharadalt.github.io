@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocjams
+title: BlocJams A Case Study
 thumbnail-path: "img/blocjams_main.PNG"
 short-description: A digital music player like Spotify, a frontend web development application with HTML, add styling and responsiveness using CSS, interactivity with JavaScript AngularJS, jQuery and DOM scripting
 github-path: "https://github.com/sharadalt/bloc_jams_angular"
@@ -20,7 +20,6 @@ BlocJams provides the solution. It's like spotify. Using blocjams, we can select
 Now let us see how we can play music from blocjams, Start the application, you will see the following page and click on collection.
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocjams_main.PNG"/>
   </a>
 </div>
@@ -29,7 +28,6 @@ Now let us see how we can play music from blocjams, Start the application, you w
 It opens up the collection available:
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocjams_1.PNG"/>
   </a>
 </div>
@@ -38,7 +36,6 @@ It opens up the collection available:
 Now pick up your album and play the song.
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocjams_2.PNG"/>
   </a>
 </div>

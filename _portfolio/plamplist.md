@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AdsList
+title: AdsList A Case Study
 thumbnail-path: "img/lamp_main.PNG"
 short-description: A custom made Ads_list application developed using LAMP.
 github-path: "https://github.com/sharadalt/lampapp"
@@ -23,7 +23,6 @@ Now comes the question how do you register?
 Here is the screen, like any web application, provide your name, email and password and press the Signup button, That's it.
 
 <div class="boxed" style="width: 50%;margin-left: auto; margin-right: auto;text-align: center;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/lamp_registration.PNG"/>
   </a>
 </div>
@@ -34,7 +33,6 @@ Once instructions followed, you are a registered user.
 How to signin into AdsList? Here you go ....
 
 <div class="boxed" style="width: 50%;margin-left: auto; margin-right: auto; text-align: center;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/lamp_login.PNG"/>
   </a>
 </div>
@@ -43,7 +41,6 @@ How to signin into AdsList? Here you go ....
 Once logged in, you can either logout, Browse the Ads or post an Ad. Here is the screen to post an Ad
 
 <div class="boxed" style="width: 50%;margin-left: auto; margin-right: auto; text-align: center;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/lamp_post_ads.PNG"/>
   </a>
 </div>
@@ -52,7 +49,6 @@ Once logged in, you can either logout, Browse the Ads or post an Ad. Here is the
 If you wish to browse Ads, Here you go....
 
 <div class="boxed" style="width: 50%;margin-left: auto; margin-right: auto;text-align: center;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/lamp_browse_ads.PNG"/>
   </a>
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocipedia
+title: Blocipedia Case Study
 thumbnail-path: "img/blocipedia_main.PNG"
 short-description: A production quality SaaS application implemented using Ruby on Rails that allows users to create their own wikis.
 github-path: "https://github.com/sharadalt/blocipedea"
@@ -32,9 +32,7 @@ Like in any web application, you need to register first in order to use Blociped
 Here is the screen, like any web application, provide your name, email and password and click the Signup button, That's it.
 
 <div class="boxed" style="width:100%;text-align: center;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocipedia_signup.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -45,7 +43,6 @@ Once instructions followed, you are a registered user.
 Once registered, what do you want to do next? It's no brainer, You want to signin into Blocipedia.
 
 <div class="boxed" style="width: 100%;text-align: center;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocipedia_signin.PNG"/>
   </a>
 </div>
@@ -57,7 +54,6 @@ By the way, Blocipedia has user authentication implemented using 'Devise' gem, i
 Once signed, You can get started with Blocipedia through the screen below:
 
 <div class="boxed" style="width: 100%;text-align: left;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocipedia_getting_started.PNG"/>
   </a>
 </div>
@@ -69,7 +65,6 @@ Once you click on that magic button get started, that's it! you are inside  Bloc
 Not only you can create public wikis but also can edit, show and delete your own creation. According to Blocipedia roles, Now you are a 'standard user'.
 
 <div class="boxed" style="width: 100%; text-align: left;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocipedia_standard_user.PNG"/>
   </a>
 </div>
@@ -78,7 +73,6 @@ Not only you can create public wikis but also can edit, show and delete your own
 This is how your edit page looks like for a public wiki.
 
 <div class="boxed" style="width: 100%;text-align: left;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocipedia_edit_public_wiki.PNG"/>
   </a>
 </div>
@@ -89,7 +83,6 @@ Note: When you become a premium user, you have the option to make any public wik
 If you just want to have a look at your wiki, clicking that show button will do the trick.
 
 <div class="boxed" style="width: 100%;text-align:left ;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocipedia_wiki_show.PNG"/>
   </a>
 </div>
@@ -98,7 +91,6 @@ If you just want to have a look at your wiki, clicking that show button will do 
 If you wish to have own private wikis, just click on the button which says, upgrade account to premium by paying in standard user page. Boooom...
 
 <div class="boxed" style="width: 100%;text-align: left;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocipedia_payment.PNG"/>
   </a>
 </div>
@@ -109,7 +101,6 @@ Blocipedia has used services of stripe for payment processing, again if you care
 Now after paying, Tat tada .... You become a 'premium user'! wow!!! That is the role, Blocipedia assigns you.
 
 <div class="boxed" style="width: 100%;text-align: left;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocipedia_premium_user.PNG"/>
   </a>
 </div>
@@ -119,7 +110,6 @@ There is one more role called 'admin' in Blocipedia. This roles thingy is implem
 Premium users like you and admin users are able to create new private wikis and make public wikis private. If you did not figure it out already, you can edit a wiki with Markdown syntax. You can add and remove collaborators for your private wikis. The privake wiki edit page is like below with option to add collaborators.
 
 <div class="boxed" style="width: 100%;text-align: left;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocipedia_edit_private_wiki.PNG"/>
   </a>
 </div>

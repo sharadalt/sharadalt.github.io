@@ -4,12 +4,12 @@ layout: post
 ---
 <h3>Introduction</h3>
 <p>
-When I was facing the first interview in web development, my mentor specifically told me to be prepared with 'Closures'. According to, “Master the JavaScript Interview”,  you can’t get very far with JavaScript without learning about 'Closures'. If you ask anyone in Front end development for interview tips, they invariably touch upon 'Closures'. 
+When I was facing the first interview in web development, my mentor specifically told me to be prepared with 'closures'. According to, “Master the JavaScript Interview”,  you can’t get very far with JavaScript without learning about 'closures'. If you ask anyone in Front end development for interview tips, they invariably touch upon 'closures'. 
 </p>
 
 <h3>Explanation</h3>
 
-<p><h4>What is a Closure?</h4>
+<p><h4>What is a closure?</h4>
 Closure is one when the function remembers the surrounding context (the lexical context) in which it was declared. In other words we can say, A closure is nothing but function with preserved data.</p>
 
 Now let us see the code below:
@@ -64,7 +64,7 @@ c(); // prints 75
 
 In this code, In addition to just focussing on local variable of function a(), The function a() now returns actual function b(), instead of invoking it. We assigned the function a() to a variable c which exists outside of function a().
 
-Variable 'c' is a <b>Closure.</b> A closure is the combination of a function and the lexical environment within which that function was declared.
+Variable 'c' is a <b>closure.</b> A closure is the combination of a function and the lexical environment within which that function was declared.
 
 When we invoke c(), we invoke b() which has access to the inner scope of a(), without executing function a().
 
@@ -81,7 +81,7 @@ An example use of closure is using counter,
 
 Suppose you want to use a variable for counting something, and you want this counter to be available to all functions.
 
-You could use a global variable, and a function to increase the counter. In this case,  any script on the page can change the counter, as it is a global variable. If we have declared the variable counter within the function, no one else other than the function will be able to access the counter, but the count does not work. Everytime the function is invoked, it will show the same value. The solution to this problem is using Closure.
+You could use a global variable, and a function to increase the counter. In this case,  any script on the page can change the counter, as it is a global variable. If we have declared the variable counter within the function, no one else other than the function will be able to access the counter, but the count does not work. Everytime the function is invoked, it will show the same value. The solution to this problem is using closure.
 
 {% highlight js %}
 
@@ -101,7 +101,7 @@ As per the code above, The variable count is assigned the return value of a self
 </p>
 
 <p>
-Another example of Closure is, Partial addition:
+Another example of closure is, Partial addition:
 
 {% highlight js %}
 var addTo = function(varPassed) {
@@ -122,9 +122,9 @@ console.log(addFour(1));  // prints the value 5
 In the above code, In addThree, it preserves the value of 3. When it is executed it uses this preserved data. This is closure. Again, addFour is a closure. The value of varInner is what we are passing in console.log, which is 1.
 
 <h3>Conclusion</h3>
-<p>This article is an attempt to give a simple explanation of Closure. In this article, We saw the global scope behaviour in Java Script. We saw the implementation of inner function and outer function along with their local scopes behaviour. Later we saw the inner function's reference creating a Closure. Finally we saw couple of Closure examples.</p>
+<p>This article is an attempt to give a simple explanation of closure. In this article, We saw the global scope behaviour in JavaScript. We saw the implementation of inner function and outer function along with their local scopes behaviour. Later we saw the inner function's reference creating a closure. Finally we saw couple of closure examples.</p>
 <p>
-When I was preparing for the interview, I used all the material above and felt quite confident about my basic knowledge of Closure. Hope the same confidence you will have about Closure after reading this article. Good Luck! 
+When I was preparing for the interview, I used all the material above and felt quite confident about my basic knowledge of closure. Hope the same confidence you will have about closure after reading this article. Good Luck! 
 </p>
 
 </p>

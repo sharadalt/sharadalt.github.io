@@ -6,12 +6,10 @@ feature-img: "img/color.png"
 ---
 
 <div class="boxed" style="width: 100%;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
-	<p style="float: left; margin-right:10px;"><img src="/img/index_1.jpg"/></p>
-  </a>
+	<p style="float: left; margin-right:10px;"><img src="/img/index_1.jpg" style="style=margin:0; padding:0;position:relative;display:block;"/></p>
 </div> 
 
-<p style="text-align: left; ">
+<p style="text-align: left;">
 I am an Indian American. I am the first engineer in a family of doctors, bankers and administrative professionals. While in elementary school, I dreamt of becoming a lawyer. While in high school, I wanted to become a scientist. My dad wanted my brother to become an engineer. My brother chose different profession, then my dad wanted me to become an engineer. Since I had not firmly decided whether to become a lawyer or a scientist and I was not averse to becoming an engineer, I became an engineer. 
 
 </p>

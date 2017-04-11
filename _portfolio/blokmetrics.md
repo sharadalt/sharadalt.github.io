@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocmetrics
+title: Blocmetrics A Case Study
 thumbnail-path: "img/blocmetrics_main.PNG"
 short-description: An analytics service and reporting tool that you can use with web apps to track user activity.
 github-path: "https://github.com/sharadalt/blocmetrics"
@@ -32,7 +32,6 @@ Like in any web application, you need to register first in order to use Blocmetr
 Here is the screen, like any web application, provide your name, email and password and click the Signup button, That's it.
 
 <div class="boxed" style="width:100%;text-align: center;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocmetrics_signup.PNG"/>
   </a>
 </div>
@@ -45,7 +44,6 @@ Once instructions followed, you are a registered user.
 Once registered, I assume, You want to signin into Blocmetrics.
 
 <div class="boxed" style="width: 100%;text-align: center;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocmetrics_login.PNG"/>
   </a>
 </div>
@@ -57,7 +55,6 @@ By the way, Blocmetrics also has user authentication implemented using 'Devise' 
 Once signed, You can get started with Blocmetrics through the screen below:
 
 <div class="boxed" style="width: 100%;text-align: left;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocmetrics_getgoing.PNG"/>
   </a>
 </div>
@@ -69,7 +66,6 @@ Once you click on that magic button get going, that's it! you are inside  Blocme
 Not only you can register applications, wikis but also edit, show and delete your registered applications.
 
 <div class="boxed" style="width: 100%; text-align: left;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocmetrics_index.PNG"/>
   </a>
 </div>
@@ -78,7 +74,6 @@ Not only you can register applications, wikis but also edit, show and delete you
 This is how your edit page looks like.
 
 <div class="boxed" style="width: 100%;text-align: left;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocmetrics_edit_regapplication.PNG"/>
   </a>
 </div>
@@ -88,7 +83,6 @@ This is how your edit page looks like.
 If you just want to have a look at your events registered, clicking that show button will do the trick.
 
 <div class="boxed" style="width: 100%;text-align:left ;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocmetrics_showpage.PNG"/>
   </a>
 </div>

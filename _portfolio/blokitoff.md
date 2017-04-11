@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocitoff
+title: Blocitoff A Case Study
 thumbnail-path: "img/blocitoff_main.PNG"
 short-description: A self-destructing to-do lists application. It is an Utility Application in Ruby on Rails with Rake Automation
 github-path: "https://github.com/sharadalt/blocitoff"
@@ -26,7 +26,6 @@ How does Blocitoff look like to start with? It looks like what is shown in work.
 To get access to Blocitoff, First thing you do is Signup.
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocitoff_signup.PNG"/>
   </a>
 </div>
@@ -35,7 +34,6 @@ To get access to Blocitoff, First thing you do is Signup.
 Then ofcourse next thing you do is Signin. Your Sign in opens up the door to Blocitoff. 
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocitoff_signin.PNG"/>
   </a>
 </div>
@@ -46,7 +44,6 @@ Blocitoff has user authentication implemented from scratch. Isn't that neat? In 
 Signed In user can create multiple to-do items, see how old a to-do item is, edit them, mark to-do items as complete and delete them. Also, to-do items are automatically deleted seven days after their creation date.
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocitoff_index.PNG"/>
   </a>
 </div>
@@ -55,7 +52,6 @@ Signed In user can create multiple to-do items, see how old a to-do item is, edi
 Edit screen of the Todo item is shown below:
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
-  <a href="{{ project.url | prepend: site.baseurl }}">
     <img src="/img/blocitoff_edit_todo.PNG"/>
   </a>
 </div>
