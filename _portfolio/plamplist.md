@@ -24,7 +24,6 @@ Here is the screen, like any web application, provide your name, email and passw
 
 <div class="boxed" style="width: 50%;margin-left: auto; margin-right: auto;text-align: center;">
     <img src="/img/lamp_registration.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -34,7 +33,6 @@ How to signin into AdsList? Here you go ....
 
 <div class="boxed" style="width: 50%;margin-left: auto; margin-right: auto; text-align: center;">
     <img src="/img/lamp_login.PNG"/>
-  </a>
 </div>
 <br />
  
@@ -42,7 +40,6 @@ Once logged in, you can either logout, Browse the Ads or post an Ad. Here is the
 
 <div class="boxed" style="width: 50%;margin-left: auto; margin-right: auto; text-align: center;">
     <img src="/img/lamp_post_ads.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -50,7 +47,6 @@ If you wish to browse Ads, Here you go....
 
 <div class="boxed" style="width: 50%;margin-left: auto; margin-right: auto;text-align: center;">
     <img src="/img/lamp_browse_ads.PNG"/>
-  </a>
 </div>
 <br />
 

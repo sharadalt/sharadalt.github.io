@@ -33,7 +33,6 @@ Here is the screen, like any web application, provide your name, email and passw
 
 <div class="boxed" style="width:100%;text-align: center;">
     <img src="/img/blocmetrics_signup.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -45,7 +44,6 @@ Once registered, I assume, You want to signin into Blocmetrics.
 
 <div class="boxed" style="width: 100%;text-align: center;">
     <img src="/img/blocmetrics_login.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -56,7 +54,6 @@ Once signed, You can get started with Blocmetrics through the screen below:
 
 <div class="boxed" style="width: 100%;text-align: left;">
     <img src="/img/blocmetrics_getgoing.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -67,7 +64,6 @@ Not only you can register applications, wikis but also edit, show and delete you
 
 <div class="boxed" style="width: 100%; text-align: left;">
     <img src="/img/blocmetrics_index.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -75,7 +71,6 @@ This is how your edit page looks like.
 
 <div class="boxed" style="width: 100%;text-align: left;">
     <img src="/img/blocmetrics_edit_regapplication.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -84,7 +79,6 @@ If you just want to have a look at your events registered, clicking that show bu
 
 <div class="boxed" style="width: 100%;text-align:left ;">
     <img src="/img/blocmetrics_showpage.PNG"/>
-  </a>
 </div>
 <br />
 

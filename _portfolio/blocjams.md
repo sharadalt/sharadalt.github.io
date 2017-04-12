@@ -21,7 +21,6 @@ Now let us see how we can play music from blocjams, Start the application, you w
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
     <img src="/img/blocjams_main.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -29,7 +28,6 @@ It opens up the collection available:
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
     <img src="/img/blocjams_1.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -37,7 +35,6 @@ Now pick up your album and play the song.
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; border: 1px solid blue;text-align: center;">
     <img src="/img/blocjams_2.PNG"/>
-  </a>
 </div>
 <br />
 

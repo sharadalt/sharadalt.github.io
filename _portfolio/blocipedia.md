@@ -44,7 +44,6 @@ Once registered, what do you want to do next? It's no brainer, You want to signi
 
 <div class="boxed" style="width: 100%;text-align: center;">
     <img src="/img/blocipedia_signin.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -55,7 +54,6 @@ Once signed, You can get started with Blocipedia through the screen below:
 
 <div class="boxed" style="width: 100%;text-align: left;">
     <img src="/img/blocipedia_getting_started.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -66,7 +64,6 @@ Not only you can create public wikis but also can edit, show and delete your own
 
 <div class="boxed" style="width: 100%; text-align: left;">
     <img src="/img/blocipedia_standard_user.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -74,7 +71,6 @@ This is how your edit page looks like for a public wiki.
 
 <div class="boxed" style="width: 100%;text-align: left;">
     <img src="/img/blocipedia_edit_public_wiki.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -84,7 +80,6 @@ If you just want to have a look at your wiki, clicking that show button will do 
 
 <div class="boxed" style="width: 100%;text-align:left ;">
     <img src="/img/blocipedia_wiki_show.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -92,7 +87,6 @@ If you wish to have own private wikis, just click on the button which says, upgr
 
 <div class="boxed" style="width: 100%;text-align: left;">
     <img src="/img/blocipedia_payment.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -102,7 +96,6 @@ Now after paying, Tat tada .... You become a 'premium user'! wow!!! That is the 
 
 <div class="boxed" style="width: 100%;text-align: left;">
     <img src="/img/blocipedia_premium_user.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -111,7 +104,6 @@ Premium users like you and admin users are able to create new private wikis and 
 
 <div class="boxed" style="width: 100%;text-align: left;">
     <img src="/img/blocipedia_edit_private_wiki.PNG"/>
-  </a>
 </div>
 <br />
 

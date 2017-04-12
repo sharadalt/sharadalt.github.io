@@ -27,7 +27,6 @@ To get access to Blocitoff, First thing you do is Signup.
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
     <img src="/img/blocitoff_signup.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -35,7 +34,6 @@ Then ofcourse next thing you do is Signin. Your Sign in opens up the door to Blo
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
     <img src="/img/blocitoff_signin.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -45,7 +43,6 @@ Signed In user can create multiple to-do items, see how old a to-do item is, edi
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
     <img src="/img/blocitoff_index.PNG"/>
-  </a>
 </div>
 <br />
 
@@ -53,7 +50,6 @@ Edit screen of the Todo item is shown below:
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
     <img src="/img/blocitoff_edit_todo.PNG"/>
-  </a>
 </div>
 <br />
 
