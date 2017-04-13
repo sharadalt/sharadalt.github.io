@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocmetrics - Click here for Case Study
+title: Blocmetrics
 thumbnail-path: "img/blocmetrics_main.PNG"
 short-description: An analytics service and reporting tool that you can use with web apps to track user activity.
 github-path: "https://github.com/sharadalt/blocmetrics"

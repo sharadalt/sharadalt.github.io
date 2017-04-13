@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlocJams - Click here for Case Study
+title: BlocJams
 thumbnail-path: "img/blocjams_main.PNG"
 short-description: A digital music player like Spotify, a frontend web development application with HTML, add styling and responsiveness using CSS, interactivity with JavaScript AngularJS, jQuery and DOM scripting.
 github-path: "https://github.com/sharadalt/bloc_jams_angular"

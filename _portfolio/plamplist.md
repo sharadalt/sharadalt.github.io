@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AdsList - Click here for Case Study
+title: AdsList
 thumbnail-path: "img/lamp_main.PNG"
 short-description: A custom made Ads_list application developed using LAMP.
 github-path: "https://github.com/sharadalt/lampapp"
