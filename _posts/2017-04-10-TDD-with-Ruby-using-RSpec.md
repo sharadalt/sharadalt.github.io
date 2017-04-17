@@ -15,6 +15,13 @@ The main one being production of quality code in optimal amount of time, reducin
 
 Rails makes it easy to write tests. It starts by producing skeleton test code while we are creating our models and controllers. By simply running our Rails tests we can ensure our code adheres to the desired functionality even after some major code refactoring.</p>
 <p>
+TDD is three step process. Red, Green , Refactor.
+First write a test for a functionality which does not exist. Make sure the test fails(Red). Create the functionality so that the test passes(Green). Then refactor the code to make it cleaner , maintainable and robust. 
+</p>
+<p>
+Narrow the scope of the test to be as small and self-contained as possible. When you are testing the method,  only assess what the code returns. Write DRY(Do not Repeat Yourself) test.
+</p>
+<p>
 One of the most popular testing frameworks in Ruby on Rails community, for TDD is RSpec.
 </p>
 <p>
@@ -442,18 +449,17 @@ Finished in 0.00385 seconds (files took 0.10242 seconds to load)
 sharadalt:~/workspace/example_app (example_ruby_app) $ 
 {% endhighlight %}
 
+<p>
+RSpec empties the Test database before running each spec. Each test must create the data it needs.
+</p>
+
+
 <h3>Conclusion</h3>
 <p>
 We have seen RSpec test implementation for simple hello method and multiplication methods. We have also seen how to test models using RSpec. We have seen how the tests are written step by step and how the code to be tested is modified accordingly.
 Writing TDD code is not that complicated in Ruby on Rails as we have seen right? We can practice to implement it in all our sofware designs to save our companies big money.
 </p>
-<p>
-TDD is three step process. Red, Green , Refactor.
-First write a test for a functionality which does not exist. Make sure the test fails(Red). Create the functionality so that the test passes(Green). Then refactor the code to make it cleaner , maintainable and robust. 
-</p>
-<p>
-Narrow the scope of the test to be as small and self-contained as possible. When you are testing the method,  only assess what the code returns. Write DRY(Do not Repeat Yourself) test.
-</p>
+
 <h3>References</h3>
 (1)Bloc Tutorial Material <br>
 (2)rubyonrails.org <br>
