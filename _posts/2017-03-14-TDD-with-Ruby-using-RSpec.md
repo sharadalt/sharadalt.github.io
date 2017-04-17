@@ -18,17 +18,6 @@ Rails makes it easy to write tests. It starts by producing skeleton test code wh
 One of the most popular testing frameworks in Ruby on Rails community, for TDD is RSpec.
 </p>
 <p>
-The parts of RSpec are:
-<p>
-<b>rspec-core:</b> The spec runner, providing a rich command line program, flexible and customizable reporting, and an API to organize your code examples. 
-</p>
-<p>
-<b>rspec-expectations:</b> Provides a readable API to express expected outcomes of a code example. 
-</p>
-<p>
-<b>rspec-mocks:</b> Test double framework, providing multiple types of fake objects to allow you to tightly control the environment in which your specs run.
-</p>
-<p>
 <b>rspec-rails:</b> Supports using RSpec to test Ruby on Rails applications in place of Rails' built-in test framework.
 </p>
 
@@ -454,12 +443,20 @@ sharadalt:~/workspace/example_app (example_ruby_app) $
 {% endhighlight %}
 
 <h3>Conclusion</h3>
+<p>
 We have seen RSpec test implementation for simple hello method and multiplication methods. We have also seen how to test models using RSpec. We have seen how the tests are written step by step and how the code to be tested is modified accordingly.
-Writing TDD code is not that complicated in Ruby on Rails as we have seen right? We can practice to implement it in all our sofware designs to save our companies dollars.
-
+Writing TDD code is not that complicated in Ruby on Rails as we have seen right? We can practice to implement it in all our sofware designs to save our companies big money.
+</p>
+<p>
+TDD is three step process. Red, Green , Refactor.
+First write a test for a functionality which does not exist. Make sure the test fails(Red). Create the functionality so that the test passes(Green). Then refactor the code to make it cleaner , maintainable and robust. 
+</p>
+<p>
+Narrow the scope of the test to be as small and self-contained as possible. When you are testing the method,  only assess what the code returns. Write DRY(Do not Repeat Yourself) test.
+</p>
 <h3>References</h3>
 (1)Bloc Tutorial Material <br>
 (2)rubyonrails.org <br>
-(3)rspec.info
+(3)rspec.info<br>
 (4)https://relishapp.com/rspec
 (5)https://bparanj.wistia.com/projects/azxn2s3fnq
