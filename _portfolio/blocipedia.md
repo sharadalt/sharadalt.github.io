@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Blocipedia
+title:  Micropedia
 thumbnail-path: "img/blocipedia_main.PNG"
 short-description: A production quality SaaS application implemented using Ruby on Rails that allows users to create their own wikis.
 github-path: "https://github.com/sharadalt/blocipedea"
@@ -18,29 +18,29 @@ There is a need for an app that not only lets us create our own wikis and share 
 <a href="https://github.com/sharadalt/blocipedea" style="font-family:Times New Roman;"><strong>https://github.com/sharadalt/blocipedea</strong></a>
 <br>
 
-Blocipedia application provides the solution for you with multiple features and in a cost effective manner. Once you are registered, You can create free Markdown wikis using Blocipedia. You can pay minimal money and have your own private wikis/documents and collaborate with colleagues. Bocipedia provides wiki CRUD operations as well. 
+Micropedia application provides the solution for you with multiple features and in a cost effective manner. Once you are registered, You can create free Markdown wikis using Micropedia. You can pay minimal money and have your own private wikis/documents and collaborate with colleagues. Bocipedia provides wiki CRUD operations as well. 
 
-Blocipedia is built in Ruby on Rails framework with MVC architecture. It uses html , CSS and bootstrap-sass to stylize. It uses ruby gems to achieve some of it's tasks. It uses SQLite for it's database needs.
+Micropedia is built in Ruby on Rails framework with MVC architecture. It uses html , CSS and bootstrap-sass to stylize. It uses ruby gems to achieve some of it's tasks. It uses SQLite for it's database needs.
 
-Now comes the fun part! How is the look and feel of Blocipedia? Come on in, Let us explore it!
+Now comes the fun part! How is the look and feel of Micropedia? Come on in, Let us explore it!
 
-The welcoming 'welcome page' of Blocipedia is in the Work page of this portfolio,
+The welcoming 'welcome page' of Micropedia is in the Work page of this portfolio,
 You are free to have one more look at it.
 
-Like in any web application, you need to register first in order to use Blocipedia. Question is how do you do that?
+Like in any web application, you need to register first in order to use Micropedia. Question is how do you do that?
 
 Here is the screen, like any web application, provide your name, email and password and click the Signup button, That's it.
 
-<div class="boxed" style="width:100%;text-align: center;">
+<div class="boxed" style="text-align: center;">
     <img src="/img/blocipedia_signup.PNG"/>
 </div>
 <br />
 
 Wait a minute, That's not it!
-At Blocipedia, when you signup, you get a confirmation email and instructions to signin.
+At Micropedia, when you signup, you get a confirmation email and instructions to signin.
 Once instructions followed, you are a registered user.
 
-Once registered, what do you want to do next? It's no brainer, You want to signin into Blocipedia.
+Once registered, what do you want to do next? It's no brainer, You want to signin into Micropedia.
 
 <div class="boxed" style="width: 100%;text-align: center;">
     <img src="/img/blocipedia_signin.PNG"/>
@@ -48,9 +48,9 @@ Once registered, what do you want to do next? It's no brainer, You want to signi
 <br />
 
 If you forget the password, no worries. Relax.. You can recover it.
-By the way, Blocipedia has user authentication implemented using 'Devise' gem, if you care about that. 
+By the way, Micropedia has user authentication implemented using 'Devise' gem, if you care about that. 
 
-Once signed, You can get started with Blocipedia through the screen below:
+Once signed, You can get started with Micropedia through the screen below:
 
 <div class="boxed" style="width: 100%;text-align: left;">
     <img src="/img/blocipedia_getting_started.PNG"/>
@@ -58,9 +58,9 @@ Once signed, You can get started with Blocipedia through the screen below:
 <br />
 
 
-Once you click on that magic button get started, that's it! you are inside  Blocipedia ! 
+Once you click on that magic button get started, that's it! you are inside  Micropedia ! 
 
-Not only you can create public wikis but also can edit, show and delete your own creation. According to Blocipedia roles, Now you are a 'standard user'.
+Not only you can create public wikis but also can edit, show and delete your own creation. According to Micropedia roles, Now you are a 'standard user'.
 
 <div class="boxed" style="width: 100%; text-align: left;">
     <img src="/img/blocipedia_standard_user.PNG"/>
@@ -90,16 +90,16 @@ If you wish to have own private wikis, just click on the button which says, upgr
 </div>
 <br />
 
-Blocipedia has used services of stripe for payment processing, again if you care to know it.
+Micropedia has used services of stripe for payment processing, again if you care to know it.
 
-Now after paying, Tat tada .... You become a 'premium user'! wow!!! That is the role, Blocipedia assigns you.
+Now after paying, Tat tada .... You become a 'premium user'! wow!!! That is the role, Micropedia assigns you.
 
 <div class="boxed" style="width: 100%;text-align: left;">
     <img src="/img/blocipedia_premium_user.PNG"/>
 </div>
 <br />
 
-There is one more role called 'admin' in Blocipedia. This roles thingy is implemented using 'Pundit' gem.
+There is one more role called 'admin' in Micropedia. This roles thingy is implemented using 'Pundit' gem.
 Premium users like you and admin users are able to create new private wikis and make public wikis private. If you did not figure it out already, you can edit a wiki with Markdown syntax. You can add and remove collaborators for your private wikis. The privake wiki edit page is like below with option to add collaborators.
 
 <div class="boxed" style="width: 100%;text-align: left;">
@@ -110,8 +110,8 @@ Premium users like you and admin users are able to create new private wikis and 
 Important note, If you decide to go back to standard user role, that is a piece of cake!  At the bottom of premier user screen select to become one. That is it.
 
 ##### Results
-With Blocipedia, you can create both public and private wikis.
+With Micropedia, you can create both public and private wikis.
 
 ##### Conclusion
-Blocipedia is the way togo for creating public and private wikis.
+Micropedia is the way togo for creating public and private wikis.
 

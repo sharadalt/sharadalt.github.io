@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocitoff
+title: Todo_list
 thumbnail-path: "img/blocitoff_main.PNG"
 short-description: A self-destructing to-do lists application. It is an Utility Application in Ruby on Rails with Rake Automation.
 github-path: "https://github.com/sharadalt/blocitoff"
@@ -17,27 +17,27 @@ We need a to-do list organizer application to prevent this disaster. To-do lists
 
 <a href="https://github.com/sharadalt/blocitoff" style="font-family:Times New Roman;"><strong>https://github.com/sharadalt/blocitoff</strong></a>
 
-Blocitoff will not only help in achieving your goal but will also aim to keep to-do lists manageable by automatically deleting to-do items that have not been completed after seven days. The hypothesis is that if the to-do item is not important enough to be completed in seven days, it doesn't belong on your to-do list.
+Todo_list will not only help in achieving your goal but will also aim to keep to-do lists manageable by automatically deleting to-do items that have not been completed after seven days. The hypothesis is that if the to-do item is not important enough to be completed in seven days, it doesn't belong on your to-do list.
 
-Blocitoff is built in Ruby on Rails framework with MVC architecture. It uses html, CSS and bootstrap-sass to stylize. It uses ruby gems to achieve some of it's tasks. It uses SQLite for it's database needs.
+Todo_list is built in Ruby on Rails framework with MVC architecture. It uses html, CSS and bootstrap-sass to stylize. It uses ruby gems to achieve some of it's tasks. It uses SQLite for it's database needs.
 
-How does Blocitoff look like to start with? It looks like what is shown in work.md
+How does Todo_list look like to start with? It looks like what is shown in work.md
 
-To get access to Blocitoff, First thing you do is Signup.
+To get access to Todo_list, First thing you do is Signup.
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
     <img src="/img/blocitoff_signup.PNG"/>
 </div>
 <br />
 
-Then ofcourse next thing you do is Signin. Your Sign in opens up the door to Blocitoff. 
+Then ofcourse next thing you do is Signin. Your Sign in opens up the door to Todo_list. 
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
     <img src="/img/blocitoff_signin.PNG"/>
 </div>
 <br />
 
-Blocitoff has user authentication implemented from scratch. Isn't that neat? In fact, I had started implementing using 'Devise' gem. I felt as I had already decided to use 'Devise' for other applications, Here, Why not implement without using Devise. 
+Todo_list has user authentication implemented from scratch. Isn't that neat? In fact, I had started implementing using 'Devise' gem. I felt as I had already decided to use 'Devise' for other applications, Here, Why not implement without using Devise. 
 
 Signed In user can create multiple to-do items, see how old a to-do item is, edit them, mark to-do items as complete and delete them. Also, to-do items are automatically deleted seven days after their creation date.
 
@@ -55,9 +55,9 @@ Edit screen of the Todo item is shown below:
 
 
 ##### Results
-With Blocitoff, you can see your progress in your to-do list and don't have to worry about the maintainance of your to-do list.
+With Todo_list, you can see your progress in your to-do list and don't have to worry about the maintainance of your to-do list.
 
 ##### Conclusion
-Blocitoff is the way togo for your to-do lists.
+Todo_list is the way togo for your to-do lists.
 
 

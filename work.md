@@ -23,7 +23,7 @@ feature-img: "img/color.png"
 	  <br><br>
     <div class="project-thumb">
       <a href="{{ project.url | prepend: site.baseurl }}">
-        <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}" align="middle">
+        <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}">
       </a>
     </div>
     </div>
