@@ -7,13 +7,13 @@ layout: post
 <p>
 Why are the interpretations interpreted the way they are interpreted? Have you analyzed them anytime? It is very interesting when you actually sit and analyze them. 
 <p>
-There is nothing like an absolute interpretation. The interpretation is based on our conditioning  which is itself a product of our past experience, expectations, back ground, value system, the people around us in a given situation, physical location  and so many other factors.
+There is nothing like an absolute interpretation. The interpretation is based on our conditioning  which itself is a product of our past experience, expectations, back ground, value system, the people around us in a given situation, physical location  and so many other factors.
 </p>
 <p>
 We will be very confident of our interpretation. Our assumptions will be based on our interpretations and we trust our assumptions dearly and come to conclusion. Not only that we will goto any extent to defend our conclusion. We form strong opinions about people based on our assumptions.
 </p>
 <p>
-I will now  share  the way I interpreted some incidents that occurred  in my life and the assumptions/conclusions I arrived at.  Then how I learned some lessons later. Some of you might relate to people like me, some of you might consider them strange and some of you might even consider them as idiotic or funny. But remember you have to deal with such people in life and we live in civilized world :-)
+I will now  share  the way I interpreted some incidents that occurred  in my life and the assumptions/conclusions I arrived at.  Then how I learned some lessons later. Some of you might relate to people like me, some of you might consider them strange and some of you might even consider them as idiotic or funny. But remember you have to deal with such people in life and we live in a civilized world :-)
 </p>
 <p>
  I am sure most of you would empathise with me.
@@ -23,7 +23,7 @@ I will now  share  the way I interpreted some incidents that occurred  in my lif
 <p>
  Long back, When I went to a Chinese restaurant with some of my friends, an interesting thing happened. We had our food and the waitress brought us the cheque. Ofcourse the fortune cookies came along. 
  
- <p>As usual, everyone started opening the cookie and reading it and talking about the lucky numbers, bla, bla,... I opened mine with curiosity, alas! There was no note in the cookie! It was  so unexpected! It was one of those days, where since morning not very good things were happening to me and added to that no fortune note in my cookie.
+ <p>As usual, everyone started opening the cookie and reading the note and talking about the lucky numbers, bla, bla,... I opened mine with curiosity, alas! There was no note in the cookie! It was  so unexpected! It was one of those days, where since morning not very good things were happening to me and added to that no fortune note in my cookie.
  </p>
  <p>
 I was thinking, atleast I could have gotten some nice note in the cookie to cheer me up. I was deprived of that too. According to me all terrible things were happening to me. I was feeling kind of uneasy. My feeling was very much connected with the situation I was in that day.
@@ -37,7 +37,7 @@ It  was not that  my other friends were feeling sorry for me and happy for thems
 </p>
 
 <p>
-Anyways, As a side effect, After that incident, It was cemented in my mind that I am the one who can define my fortune. What's your interpretation  and conclution of absence of a note in the fortune cookie? :-) 
+Anyways, As a side effect, After that incident, It was cemented in my mind that I am the one who can define my fortune. What's your interpretation  and conclution of absence of a note in the fortune cookie? :-) Guess what the next time I went to a chinese restaurant, I got two notes in my cookie!
 </p>
 
 <h3>Interpretation based on wrong assumption</h3>
@@ -57,10 +57,10 @@ As a part of the workshop, we had a practice session. There were lot of experien
 </p>
 
 <p>
-When my turn came  I was a bit anxious as I was doing it for the first time. of course  I made sure I did not show my anxiety. First as a rule, I was supposed to ask the team members one by one to introduce themselves to the audience  which, I promptly did. But  I missed the time-keeper who was not in the immediate vicinity. Someone reminded me, It made me more anxious. But outside very confidently with smiling face I called out Ms.Time keeper can you introduce yourself. We completed the facilitation.
+When my turn came  I was a bit anxious as I was doing it for the first time. Of course,  I made sure I did not show my anxiety. First as a rule, I was supposed to ask the team members one by one to introduce themselves to the audience  which, I promptly did. But  I missed the time-keeper who was not in the immediate vicinity. Someone reminded me, It made me more anxious. But outside very confidently with smiling face I called out Ms.Time keeper can you introduce yourself. We completed the facilitation.
 </p> 
 
-<p>I was not happy with my performance as I had goofed up right in the beginning. That was my conclusion. how ever I waited  for the feedback. Guess what? bummer! I did not get any feedback. My co-facilitator got some feedback for improvement. I felt bad. My assumption of absence of feedback meant I did very bad. To my surprise, when I spoke to couple of participating members, One of them said I did pretty good with my smiling face and confidence while  the other one said, she was assigned with some responsibility and did not focus much on my facilitation. But she thought it was ok. many others also said it was ok.
+<p>I was not happy with my performance as I had goofed up right in the beginning. That was my conclusion. How ever, I waited  for the feedback. Guess what? bummer! I did not get any feedback. My co-facilitator got some feedback for improvement. I felt bad. My assumption of absence of feedback meant I did very bad. To my surprise, when I spoke to couple of participating members, One of them said I did pretty good with my smiling face and confidence while  the other one said, she was assigned with some responsibility and did not focus much on my facilitation. But she thought it was ok. Many others also said it was ok.
 </p>
 
 So I learned my assumption/conclusion based on my interpretation was again  not correct. Atleast some of them did feel I did good and some  were pre occupied with their own assignments. May be people who were supposed to give me feedback felt I did not need any feedback as I showed confidence  and they had given the feed back to my  co-facilitator.  My wisdom told me, as long as I learned something from the workshop don't try to interpret too much , think too much and assume a lot. What do you think? :-)
@@ -94,12 +94,12 @@ Have you come across such people? How did you deal with them? :-)
 <h3>Interpretation/assumption based on what works for us</h3>
 <p>
 Finally, let me tell you a classical story related with interpretation and assumption and conclusion.
-There were two women, one a florist and the  a fisher woman. Both of them were good friends, selling fish and flowers in a market place. The market place was nearer to the florist's home. 
+There were two women, one a florist and the other a fisher woman. Both of them were good friends, selling fish and flowers in a market place. The market place was nearer to the florist's home. 
 </p><p>
-One day after they completed their business they head towards their homes. It started raining suddenly. The florist invited the fisher woman  to spend the night at her place and fisher woman  agreed. The florist was happy and prepared special food for her friend. She  also filled her friend's room with fragrance of the flowers by spreading the flowers on the floor. The florist went to her room convinced that her friend would have a nice sleep that night. She also thought that atleast today her dear friend would  be away from the nasty fish smell.
+One day after they completed their business they head towards their homes. It started raining suddenly. The florist invited the fisher woman  to spend the night at her place and fisher woman  agreed. The florist was happy and prepared special food for her friend. She  also filled her friend's room with fragrance of the flowers by spreading the flowers on the floor. The florist went to her room convinced that her friend would have a nice sleep that night. She also thought that atleast that day her dear friend would  be away from the nasty fish smell.
 </p>
 <p>
-Fisher woman tries to sleep. But she couldn't. Strange you think? The fact was, she was not used to the fragrance while sleeping. She was accustomed to  smell of fish. After struggling for sometime, she got an idea. She took her fish basket and kept her head near the basket such that, she could get her familiar smell and slept. She was in deep sleep within no time.
+Now the fisher woman tries to sleep in her room. But she couldn't. Strange you think? The fact was, she was not used to the fragrance while sleeping. She was accustomed to  smell of fish. After struggling for sometime, she got an idea. She took her fish basket and kept her head near the basket such that, she could get her familiar smell and slept. She was in deep sleep within no time.
 </p>
 <p>
 Next Morning  both women got up feeling happy. Florist enquired if her friend  slept well and she was replied she had great sleep. The florist concluded it was because of her flowers. The fisher woman thought god! What she would have done without her sleep saver fish basket.
