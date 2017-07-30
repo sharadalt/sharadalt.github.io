@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocmetrics
+title: Analetrics
 thumbnail-path: "img/blocmetrics_main.PNG"
 short-description: An analytics service and reporting tool that you can use with web apps to track user activity.
 github-path: "https://github.com/sharadalt/blocmetrics"
@@ -16,18 +16,18 @@ Though there are multiple analytic services, there is always a need for better o
 
 <a href="https://github.com/sharadalt/blocmetrics" style="font-family:Times New Roman;"><strong>https://github.com/sharadalt/blocmetrics</strong></a>
 
-Blocmetrics provides the solution for you with good set of features. Once you register your applications with Blocmetrics you can track the events to the registered application.
+Analetrics provides the solution for you with good set of features. Once you register your applications with Analetrics you can track the events to the registered application.
 
-Once you are registered, with your name, you can register the applications to be tracked. Blocmetrics provides wiki CRUD operations as well. 
+Once you are registered, with your name, you can register the applications to be tracked. Analetrics provides wiki CRUD operations as well. 
 
-Blocmetrics is built in Ruby on Rails framework with MVC architecture. It uses html, CSS and bootstrap-sass to stylize. It uses ruby gems to achieve some of it's tasks. It uses postgreSQL for it's database needs.
+Analetrics is built in Ruby on Rails framework with MVC architecture. It uses html, CSS and bootstrap-sass to stylize. It uses ruby gems to achieve some of it's tasks. It uses postgreSQL for it's database needs.
 
-Now comes the fun part! How is the look and feel of Blocmetrics. Come on in, Let us explore it!
+Now comes the fun part! How is the look and feel of Analetrics. Come on in, Let us explore it!
 
-You have seen the welcome page of Blocmetrics in the Work page of this portfolio.
+You have seen the welcome page of Analetrics in the Work page of this portfolio.
 
 
-Like in any web application, you need to register first in order to use Blocmetrics. Question is how do you do that?
+Like in any web application, you need to register first in order to use Analetrics. Question is how do you do that?
 
 Here is the screen, like any web application, provide your name, email and password and click the Signup button, That's it.
 
@@ -37,10 +37,10 @@ Here is the screen, like any web application, provide your name, email and passw
 <br />
 
 Wait a minute, That's not it!
-At Blocmetrics, like in Blocipedia when you signup, you get a confirmation email and instructions to signin.
+At Analetrics, like in Blocipedia when you signup, you get a confirmation email and instructions to signin.
 Once instructions followed, you are a registered user.
 
-Once registered, I assume, You want to signin into Blocmetrics.
+Once registered, I assume, You want to signin into Analetrics.
 
 <div class="boxed" style="width: 100%;text-align: center;">
     <img src="/img/blocmetrics_login.PNG"/>
@@ -48,9 +48,9 @@ Once registered, I assume, You want to signin into Blocmetrics.
 <br />
 
 Here also, like in Blocipedia, If you forget the password, no worries. Relax.. You can recover it.
-By the way, Blocmetrics also has user authentication implemented using 'Devise' gem, if you care about that. 
+By the way, Analetrics also has user authentication implemented using 'Devise' gem, if you care about that. 
 
-Once signed, You can get started with Blocmetrics through the screen below:
+Once signed, You can get started with Analetrics through the screen below:
 
 <div class="boxed" style="width: 100%;text-align: left;">
     <img src="/img/blocmetrics_getgoing.PNG"/>
@@ -58,7 +58,7 @@ Once signed, You can get started with Blocmetrics through the screen below:
 <br />
 
 
-Once you click on that magic button get going, that's it! you are inside  Blocmetrics ! 
+Once you click on that magic button get going, that's it! you are inside  Analetrics ! 
 
 Not only you can register applications, wikis but also edit, show and delete your registered applications.
 
@@ -75,19 +75,23 @@ This is how your edit page looks like.
 <br />
 
 
-If you just want to have a look at your events registered, clicking that show button will do the trick.
+If you just want to have a look at your events registered, clicking that show button will do the trick. Please note that the results are also shown in pi graph and line graphs as well,
 
 <div class="boxed" style="width: 100%;text-align:left ;">
-    <img src="/img/blocmetrics_showpage.PNG"/>
+    <img src="/img/blocmetrics_showpage_pichart.PNG"/>
 </div>
 <br />
 
+<div class="boxed" style="width: 100%;text-align:left ;">
+    <img src="/img/blocmetrics_showpage_linechart.PNG"/>
+</div>
+<br />
 Here you can see the name of the registered application, the name of the event and the number of times the event has occurred.
 
 
 ##### Results
-With Blocmetrics, you can track the application.
+With Analetrics, you can track the application.
 
 ##### Conclusion
-Blocmetrics is the way togo for tracking the events for an application.
+Analetrics is the way togo for tracking the events for an application.
 

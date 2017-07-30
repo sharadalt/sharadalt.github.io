@@ -25,7 +25,13 @@ Micropedia is built in Ruby on Rails framework with MVC architecture. It uses ht
 Now comes the fun part! How is the look and feel of Micropedia? Come on in, Let us explore it!
 
 The welcoming 'welcome page' of Micropedia is in the Work page of this portfolio,
-You are free to have one more look at it.
+You are free to have one more look at it. The about page shows the release number of Micropedia as below:
+
+<div class="boxed" style="text-align: center;">
+    <img src="/img/blocipedia_about.PNG"/>
+</div>
+<br />
+
 
 Like in any web application, you need to register first in order to use Micropedia. Question is how do you do that?
 

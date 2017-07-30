@@ -39,6 +39,13 @@ Then ofcourse next thing you do is Signin. Your Sign in opens up the door to Tod
 
 Todo_list has user authentication implemented from scratch. Isn't that neat? In fact, I had started implementing using 'Devise' gem. I felt as I had already decided to use 'Devise' for other applications, Here, Why not implement without using Devise. 
 
+Once signed in, You get to see the following screen.
+
+<div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
+    <img src="/img/blocitoff_start.PNG"/>
+</div>
+<br />
+
 Signed In user can create multiple to-do items, see how old a to-do item is, edit them, mark to-do items as complete and delete them. Also, to-do items are automatically deleted seven days after their creation date.
 
 <div class="boxed" style="width: 100%;margin-left: auto; margin-right: auto; text-align: left;">
