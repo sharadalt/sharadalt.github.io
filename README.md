@@ -1,7 +1,10 @@
+# I have used the following template to create my portfolio.
+
+
 # Portfolio Kami Theme
 ## Based on Type Theme
 
-I have used the following template to create my portfolio.
+
 
 ![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
 
