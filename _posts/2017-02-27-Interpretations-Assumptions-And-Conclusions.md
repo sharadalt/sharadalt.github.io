@@ -1,9 +1,9 @@
 ---
 layout: post
-<span title: style="font-size:12px">Interpretations, Assumptions and Conclusions
+title: <h5>Interpretations, Assumptions and Conclusions</h5>
 ---
 
-<h3>Introduction</h3>
+<h5>Introduction</h5>
 <p>
 Why are the interpretations interpreted the way they are interpreted? Have you analyzed them anytime? It is very interesting when you actually sit and analyze them. 
 <p>
@@ -19,7 +19,7 @@ I will now  share  the way I interpreted some incidents that occurred  in my lif
  I am sure most of you would empathise with me.
 </p>
 
-<h3>Situational Interpretation</h3>
+<h5>Situational Interpretation</h5>
 <p>
  Long back, When I went to a Chinese restaurant with some of my friends, an interesting thing happened. We had our food and the waitress brought us the cheque. Ofcourse the fortune cookies came along. 
  
@@ -40,7 +40,7 @@ It  was not that  my other friends were feeling sorry for me and happy for thems
 Anyways, As a side effect, After that incident, It was cemented in my mind that I am the one who can define my fortune. What's your interpretation  and conclution of absence of a note in the fortune cookie? :-) Guess what the next time I went to a chinese restaurant, I got two notes in my cookie!
 </p>
 
-<h3>Interpretation based on wrong assumption</h3>
+<h5>Interpretation based on wrong assumption</h5>
 <p>
 I was again in a similar kind of situation. This time what happened is, I was taking a Facilitation workshop.
 </p>
@@ -66,7 +66,7 @@ When my turn came  I was a bit anxious as I was doing it for the first time. Of 
 So I learned my assumption/conclusion based on my interpretation was again  not correct. Atleast some of them did feel I did good and some  were pre occupied with their own assignments. May be people who were supposed to give me feedback felt I did not need any feedback as I showed confidence  and they had given the feed back to my  co-facilitator.  My wisdom told me, as long as I learned something from the workshop don't try to interpret too much , think too much and assume a lot. What do you think? :-)
 </p>
 
-<h3>Assumption based on your experience</h3>
+<h5>Assumption based on your experience</h5>
 <p>
 It's very interesting. Read on ... I always assumed  that everyone takes bath/shower the same way I do. That is, before your body wash you wash your hair and tie it up so that it helps your body wash later. That is how  all of us were taught from our mother when we were children. It has always  been hair wash first.  
 </p>
@@ -77,7 +77,7 @@ It's very interesting. Read on ... I always assumed  that everyone takes bath/sh
 The lesson learned, I found the other way of having bath interesting and realised  may be other people will find my way to be interesting! Which way do you shower? Do you feel it makes a difference?
 </p>
 
-<h3>Location based assumption</h3>
+<h5>Location based assumption</h5>
 <p>
 One of the many good things  that has happened to me since I started living in America is smiling at and greeting everyone including strangers I come across. One day, I attended a meeting where I did not know most  of the fellow participants. I greeted my neighbour. That person after staring at me, just turned the other side without saying a word. It was new to me! I was embarrassed!
 </p>
@@ -91,7 +91,7 @@ Later during my conversation with the same person, I realized that it was she wh
 Have you come across such people? How did you deal with them? :-)
 </p>
 
-<h3>Interpretation/assumption based on what works for us</h3>
+<h5>Interpretation/assumption based on what works for us</h5>
 <p>
 Finally, let me tell you a classical story related with interpretation and assumption and conclusion.
 There were two women, one a florist and the other a fisher woman. Both of them were good friends, selling fish and flowers in a market place. The market place was nearer to the florist's home. 
@@ -114,7 +114,7 @@ How did you like the story? What works for us, may not work for others right? Ev
   </a>
 </div>
 
-<h3>Summary</h3>
+<h5>Summary</h5>
 <p>
 Look at the cartoon above. Here both are correct with respect to their locations is n't it?
 

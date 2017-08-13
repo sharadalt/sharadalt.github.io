@@ -1,13 +1,13 @@
 ---
 layout: post
-<span title: style="font-size:12px">What is a Closure ?</span>
+title: <h5>What is a Closure ?</h5>
 ---
-<h3>Introduction</h3>
+<h5>Introduction</h5>
 <p>
 When I was facing the first interview in web development, my mentor specifically told me to be prepared with 'closures'. According to, “Master the JavaScript Interview”,  you can’t get very far with JavaScript without learning about 'closures'. If you ask anyone in Front end development for interview tips, they invariably touch upon 'closures'. 
 </p>
 
-<h3>Explanation</h3>
+<h5>Explanation</h5>
 
 <p><h4>What is a closure?</h4>
 Closure is one when the function remembers the surrounding context (the lexical context) in which it was declared. In other words we can say, A closure is nothing but function with preserved data.</p>
@@ -74,7 +74,7 @@ In JavaScript, closure is created every time an outer function returns a referen
 
 The inner function will have access to the variables in the outer function scope, even after the outer function has returned/closed.
 
-<h3>Examples</h3>
+<h5>Examples</h5>
 Closures are commonly used to give objects data privacy. Data privacy is an essential property that helps us program to an interface, not an implementation.
 
 An example use of closure is using counter, 
@@ -121,7 +121,7 @@ console.log(addFour(1));  // prints the value 5
 
 In the above code, In addThree, it preserves the value of 3. When it is executed it uses this preserved data. This is closure. Again, addFour is a closure. The value of varInner is what we are passing in console.log, which is 1.
 
-<h3>Conclusion</h3>
+<h5>Conclusion</h5>
 <p>This article is an attempt to give a simple explanation of closure. In this article, We saw the global scope behaviour in JavaScript. We saw the implementation of inner function and outer function along with their local scopes behaviour. Later we saw the inner function's reference creating a closure. Finally we saw couple of closure examples.</p>
 <p>
 When I was preparing for the interview, I used all the material above and felt quite confident about my basic knowledge of closure. Hope the same confidence you will have about closure after reading this article. Good Luck! 

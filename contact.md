@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: <h5>Contact</h5>
 permalink: /contact/
 feature-img: "img/color.png"
 ---

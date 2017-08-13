@@ -1,6 +1,6 @@
 ---
 layout: post
-<span title: style="font-size:12px">RESTful APIs</span>
+title: <h6>RESTful APIs</h6>
 ---
 <h3>Introduction</h3>
 <p>What is RESTful API? An API which is based on REST.</p>

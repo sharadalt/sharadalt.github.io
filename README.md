@@ -7,7 +7,7 @@ A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and 
 
 ## Get Started
 
-[Demo](http://madebymunsters.github.io/Lannister/)
+[Demo](http://madebymunsters.github.io/sharadalt/)
 
 [Using Type](https://rohanchandra.github.io/project/type/)
 

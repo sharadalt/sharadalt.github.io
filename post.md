@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Posts
+title: <h5>My Posts</h5>
 permalink: 
 feature-img: "img/color.png"
 ---

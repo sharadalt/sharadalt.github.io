@@ -1,9 +1,9 @@
 ---
 layout: post
-title: TDD with Ruby Using Rspec
+title: <h5>TDD with Ruby Using Rspec</h5>
 ---
 
-<h3>Introduction</h3>
+<h5>Introduction</h5>
 <p> Nowadays we hear a lot about TDD. All hiring managers want development engineers to know TDD and use TDD. <b>TDD</b> stands for Test Driven Development. 
 
 <p>What is Test Driven Development? </p>
@@ -28,7 +28,7 @@ One of the most popular testing frameworks in Ruby on Rails community, for TDD i
 <b>rspec-rails:</b> Supports using RSpec to test Ruby on Rails applications in place of Rails' built-in test framework.
 </p>
 
-<h3>Reading RSpec Tests</h3>
+<h5>Reading RSpec Tests</h5>
 RSpec, like most testing frameworks, runs our code in particular conditions and with particular arguments. It sets expectations for the outcome of this process, and the test passes if those expectations are met.
 
 Consider the following code in file example1_spec.rb,
@@ -139,7 +139,7 @@ Finished in 0.00139 seconds (files took 0.10101 seconds to load)
 
 Narrow implementations of methods can pass single specific tests. We need tests to test code from a variety of angles. We need to read the test specs to make sure we understand exactly what is expected of our code, and what is needed to pass. 
 
-<h3>Testing Models Using RSpec</h3>
+<h5>Testing Models Using RSpec</h5>
 First thing we will do is, install the RSpec gem for rspec-core, rspec-expectations and rspec-mocks.
 
 {% highlight ruby %}
@@ -454,13 +454,13 @@ RSpec empties the Test database before running each spec. Each test must create 
 </p>
 
 
-<h3>Conclusion</h3>
+<h5>Conclusion</h5>
 <p>
 We have seen RSpec test implementation for simple hello method and multiplication methods. We have also seen how to test models using RSpec. We have seen how the tests are written step by step and how the code to be tested is modified accordingly.
 Writing TDD code is not that complicated in Ruby on Rails as we have seen right? We can practice to implement it in all our sofware designs to save our companies big money.
 </p>
 
-<h3>References</h3>
+<h5>References</h5>
 (1)Bloc Tutorial Material <br>
 (2)rubyonrails.org <br>
 (3)rspec.info<br>

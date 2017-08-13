@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: <h5>About Me</h5>
 permalink: /about/
 feature-img: "img/color.png"
 ---

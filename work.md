@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Work
+title: <h5>My Work</h5>
 permalink: 
 feature-img: "img/color.png"
 ---
@@ -10,11 +10,11 @@ feature-img: "img/color.png"
     <div class="project" style="text-align:center;" >
 		  <a href="{{ project.url | prepend: site.baseurl }}"><strong>{{ project.title }}</strong></a>
 		<div class="project-path">
-		  <a href="{{ project.url | prepend: site.baseurl }}" style="color:#191970"><strong>Click here to goto Case Study</strong></a>
+		  <a href="{{ project.url | prepend: site.baseurl }}" style="color:#191970"><strong>Case Study</strong></a>
     </div>
 		<div class="github-path">
 		  <a href="{{ project.github-path }}">
-			<p style="color:#800000"><strong>Click here to check code on github</strong></p></a>
+			<p style="color:#800000"><strong>Code on github</strong></p></a>
     </div>	
     <div class="project-description">
       <a href="{{ project.url | prepend: site.baseurl }}"></a>
