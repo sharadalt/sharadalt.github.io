@@ -1,4 +1,5 @@
-# I have used the following template to create my portfolio.
+# I have used the following  theme and template to create my portfolio.
+# My portfolio is at https://sharadalt.github.io
 
 
 # Portfolio Kami Theme
