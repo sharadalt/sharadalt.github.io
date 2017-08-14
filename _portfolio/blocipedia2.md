@@ -24,6 +24,11 @@ Micropedia is built in Ruby on Rails framework with MVC architecture. It uses ht
 
 Now comes the fun part! How is the look and feel of Micropedia? Come on in, Let us explore it!
 
+<h5>If you want to play with the real code follow the link on heroku</h5>
+
+<a href="https://still-brushlands-55985.herokuapp.com">Blocipedia_live</a>
+<br>
+
 The welcoming 'welcome page' of Micropedia is in the Work page of this portfolio,
 You are free to have one more look at it. The about page shows the release number of Micropedia as below:
 
@@ -32,6 +37,12 @@ You are free to have one more look at it. The about page shows the release numbe
 </div>
 <br />
 
+If you click on the help button, you get the information as to what all you can do with Micropedia.
+
+<div class="boxed" style="text-align: center;">
+    <img src="/img/blocipedia_help.PNG"/>
+</div>
+<br />
 
 Like in any web application, you need to register first in order to use Micropedia. Question is how do you do that?
 
@@ -73,6 +84,14 @@ Not only you can create public wikis but also can edit, show and delete your own
 </div>
 <br />
 
+The new wiki page is as below, please note for a premium user, there will be an option to make the wiki private. This option will not be there for a standard user.
+
+<div class="boxed" style="width: 100%;text-align: left;">
+    <img src="/img/blocipedia_new_wiki_form.PNG"/>
+</div>
+<br />
+
+
 This is how your edit page looks like for a public wiki.
 
 <div class="boxed" style="width: 100%;text-align: left;">
@@ -106,7 +125,7 @@ Now after paying, Tat tada .... You become a 'premium user'! wow!!! That is the 
 <br />
 
 There is one more role called 'admin' in Micropedia. This roles thingy is implemented using 'Pundit' gem.
-Premium users like you and admin users are able to create new private wikis and make public wikis private. If you did not figure it out already, you can edit a wiki with Markdown syntax. You can add and remove collaborators for your private wikis. The privake wiki edit page is like below with option to add collaborators.
+Premium users like you and admin users are able to create new private wikis and make public wikis private. If you did not figure it out already, you can edit a wiki with Markdown syntax. You can add and remove collaborators for your private wikis. The private wiki edit page is like below with option to add collaborators.
 
 <div class="boxed" style="width: 100%;text-align: left;">
     <img src="/img/blocipedia_edit_private_wiki.PNG"/>
