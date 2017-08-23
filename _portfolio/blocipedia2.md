@@ -18,13 +18,13 @@ There is a need for an app that not only lets us create our own wikis and share 
 <a href="https://github.com/sharadalt/blocipedea" style="font-family:Times New Roman;"><strong>https://github.com/sharadalt/blocipedea</strong></a>
 <br>
 
-Micropedia application provides the solution for you with multiple features and in a cost effective manner. Once you are registered, You can create free Markdown wikis using Micropedia. You can pay minimal money and have your own private wikis/documents and collaborate with colleagues. Bocipedia provides wiki CRUD operations as well. 
+Micropedia application provides the solution for you with multiple features and in a cost effective manner. Once you are registered, You can create free Markdown wikis using Micropedia. You can pay minimal money and have your own private wikis/documents and collaborate with colleagues. The application is still in test mode. You will not be charged now. Don't be afraid to play with it. Bocipedia provides wiki CRUD operations as well. 
 
-Micropedia is built in Ruby on Rails framework with MVC architecture. It uses html , CSS and bootstrap-sass to stylize. It uses ruby gems to achieve some of it's tasks. It uses SQLite for it's database needs.
+Micropedia is built in Ruby on Rails framework with MVC architecture. It uses html , CSS. It uses bootstrap-sass to stylize. It uses responsive web design. It uses ruby gems to achieve some of it's tasks. It uses SQLite for it's database needs in developmment mode and PostgreSQL in production mode, on Heroku.
 
 Now comes the fun part! How is the look and feel of Micropedia? Come on in, Let us explore it!
 
-<h5>If you want to play with the real code follow the link on heroku</h5>
+<h5>If you want to play with the live application follow the link on heroku</h5>
 
 <a href="https://still-brushlands-55985.herokuapp.com">Blocipedia_live</a>
 <br>
@@ -132,7 +132,7 @@ Premium users like you and admin users are able to create new private wikis and 
 </div>
 <br />
 
-Important note, If you decide to go back to standard user role, that is a piece of cake!  At the bottom of premier user screen select to become one. That is it.
+Important note, If you decide to go back to standard user role, that is a piece of cake!  At the bottom of premier user screen select to become one. That is it. Remember once you downgrade all your private wikis become public wikis.
 
 ##### Results
 With Micropedia, you can create both public and private wikis.
