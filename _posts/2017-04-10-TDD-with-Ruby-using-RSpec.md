@@ -4,7 +4,7 @@ title: <h5>TDD with Ruby Using Rspec</h5>
 ---
 
 <h5>Introduction</h5>
-<p> Nowadays we hear a lot about TDD. All hiring managers want development engineers to know TDD and use TDD. <b>TDD</b> stands for Test Driven Development. 
+<p> All development engineers need to know what is TDD and how to use TDD. <b>TDD</b> stands for Test Driven Development. 
 
 <p>What is Test Driven Development? </p>
 <p>When tests are written to specify future code's behavior, it's called "Test-Driven Development" or TDD.</p>

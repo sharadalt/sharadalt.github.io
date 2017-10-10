@@ -20,10 +20,8 @@ voice call using my software. I have also written software for TCP/IP applicatio
 In addition to development, I have done system integration, system test, automation and sustain engineering jobs.
 </p>
 <p>
-After playing all the software roles in telecom field, I felt I need to get into a field which makes me feel more creative
-and passionate about my job. That is when I decided to get into web technologies. I took training in this to be able to do I want to do. I am excited for having made my portfolio public. Though it might seem like a small thing, for me it is a milestone. After I started doing projects in this area, I felt the need to know Data analytics, So I 
-got a certification in Data base and Data Analytics.  Now I feel I am equipped enough to explore this arena. I love
-what I am doing now. 
+After playing all the software roles in telecom field, I felt I need to get into a field which continues to make me feel creative and passionate about my job and also gives opportunity to learn new technologies. That is when I decided to get into web technologies. I took training in this to be able to do I want to do. I am excited for having made my portfolio public. Though it might seem like a small thing, for me it is a milestone. After I started doing projects in this area, I felt the need to know Data analytics, So I 
+got a certification in Data base and Data Analytics.  Now I feel I am equipped enough to explore this arena. I love what I am doing now. 
 </p>
 <p>
 Web technologies is vast, there is lot to learn. I like to try out new stuff. When I am not doing that, I like teaching kids. I have learned Indian classical music and Indian classical dance for few years. I experiment with cooking.

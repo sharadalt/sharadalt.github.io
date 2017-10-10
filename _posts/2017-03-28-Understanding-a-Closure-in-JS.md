@@ -4,7 +4,7 @@ title: <h5>What is a Closure ?</h5>
 ---
 <h5>Introduction</h5>
 <p>
-When I was facing the first interview in web development, my mentor specifically told me to be prepared with 'closures'. According to, “Master the JavaScript Interview”,  you can’t get very far with JavaScript without learning about 'closures'. If you ask anyone in Front end development for interview tips, they invariably touch upon 'closures'. 
+ According to, “Master the JavaScript Interview”,  you can’t get very far with JavaScript without learning about 'closures'. If you ask anyone in Front end development for interview tips, they invariably touch upon 'closures'. 
 </p>
 
 <h5>Explanation</h5>
