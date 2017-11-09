@@ -24,7 +24,5 @@ After playing all the software roles in telecom field, I felt I need to get into
 got a certification in Data base and Data Analytics.  Now I feel I am equipped enough to explore this arena. I love what I am doing now. 
 </p>
 <p>
-Web technologies is vast, there is lot to learn. I like to try out new stuff. When I am not doing that, I like teaching kids. I have learned Indian classical music and Indian classical dance for few years. I experiment with cooking.
-I read books if I hear good reviews and when I am in mood. The rest of the time, my daughter who is in middle school takes 
-away my time. I love to take long walks. Otherwise, I spend time in web browsing and reading magazines and exercising.
+Web technologies is vast, there is lot to learn. I like to try out new stuff. When I am not doing that, I like teaching kids. I read books. The rest of the time, my family takes away my time. I love to take long walks. Otherwise, I spend time in web browsing and reading magazines and exercising.
 </p>

@@ -5,9 +5,9 @@ title: <h5>Interpretations, Assumptions and Conclusions</h5>
 
 <h5>Introduction</h5>
 <p>
-Why are the interpretations interpreted the way they are interpreted? Have you analyzed them anytime? It is very interesting when you actually sit and analyze them. 
+Why are interpretations interpreted the way they are interpreted? Have you analyzed them anytime? It is very interesting when you actually sit and analyze them. 
 <p>
-There is nothing like an absolute interpretation. The interpretation is based on our conditioning  which itself is a product of our past experience, expectations, back ground, value system, the people around us in a given situation, physical location  and so many other factors.
+There is nothing like correct interpretation. It is always wrong from an other angle. Our interpretation is based on our conditioning  which itself is a product of our past experience, expectations, back ground, value system, the people around us in a given situation, physical location  and so many other factors.
 </p>
 <p>
 We will be very confident of our interpretation. Our assumptions will be based on our interpretations and we trust our assumptions dearly and come to conclusion. Not only that we will goto any extent to defend our conclusion. We form strong opinions about people based on our assumptions.
@@ -16,7 +16,7 @@ We will be very confident of our interpretation. Our assumptions will be based o
 I will now  share  the way I interpreted some incidents that occurred  in my life and the assumptions/conclusions I arrived at.  Then how I learned some lessons later. Some of you might relate to people like me, some of you might consider them strange and some of you might even consider them as idiotic or funny. But remember you have to deal with such people in life and we live in a civilized world :-)
 </p>
 <p>
- I am sure most of you would empathise with me.
+ I am sure some of you would empathise with me.
 </p>
 
 <h5>Situational Interpretation</h5>
