@@ -4,7 +4,7 @@ title: <h5>What is a Closure ?</h5>
 ---
 <h5>Introduction</h5>
 <p>
- According to, “Master the JavaScript Interview”,  you can’t get very far with JavaScript without learning about 'closures'. If you ask anyone in Front end development for interview tips, they invariably touch upon 'closures'. 
+ You can’t get very far with JavaScript without learning about 'closures'.
 </p>
 
 <h5>Explanation</h5>
@@ -124,12 +124,12 @@ In the above code, In addThree, it preserves the value of 3. When it is executed
 <h5>Conclusion</h5>
 <p>This article is an attempt to give a simple explanation of closure. In this article, We saw the global scope behaviour in JavaScript. We saw the implementation of inner function and outer function along with their local scopes behaviour. Later we saw the inner function's reference creating a closure. Finally we saw couple of closure examples.</p>
 <p>
-When I was preparing for the interview, I used all the material above and felt quite confident about my basic knowledge of closure. Hope the same confidence you will have about closure after reading this article. Good Luck! 
+ I used all the material above and felt quite confident about my basic knowledge of closure. Hope the same confidence you will have about closure after reading this article. Good Luck! 
 </p>
 
 </p>
 <h3>References</h3>
-(1)Inputs from Jeff Lau, Mentor at Bloc <br>
+(1)Inputs from Mentor at Bloc <br>
 (2)Bloc Tutorial Material <br>
 (3)w3schools.com <br>
 (4)Master the JavaScript Interview from medium.com <br>
